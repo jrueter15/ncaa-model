@@ -1,0 +1,6607 @@
+[
+  {
+    "id": 1,
+    "key": "SMU",
+    "name": "SMU"
+  },
+  {
+    "id": 2,
+    "key": "TEMPL",
+    "name": "Temple"
+  },
+  {
+    "id": 3,
+    "key": "UCONN",
+    "name": "Connecticut"
+  },
+  {
+    "id": 4,
+    "key": "CIN",
+    "name": "Cincinnati"
+  },
+  {
+    "id": 5,
+    "key": "TULSA",
+    "name": "Tulsa"
+  },
+  {
+    "id": 6,
+    "key": "HOU",
+    "name": "Houston"
+  },
+  {
+    "id": 7,
+    "key": "MPHS",
+    "name": "Memphis"
+  },
+  {
+    "id": 8,
+    "key": "UCF",
+    "name": "UCF"
+  },
+  {
+    "id": 9,
+    "key": "ECAR",
+    "name": "East Carolina"
+  },
+  {
+    "id": 10,
+    "key": "TULANE",
+    "name": "Tulane"
+  },
+  {
+    "id": 11,
+    "key": "SFL",
+    "name": "South Florida"
+  },
+  {
+    "id": 12,
+    "key": "STBR",
+    "name": "Stony Brook"
+  },
+  {
+    "id": 13,
+    "key": "ALBNY",
+    "name": "Albany"
+  },
+  {
+    "id": 14,
+    "key": "NHAMP",
+    "name": "New Hampshire"
+  },
+  {
+    "id": 15,
+    "key": "VERM",
+    "name": "Vermont"
+  },
+  {
+    "id": 16,
+    "key": "MASLOW",
+    "name": "Massachusetts-Lowell"
+  },
+  {
+    "id": 17,
+    "key": "MAINE",
+    "name": "Maine"
+  },
+  {
+    "id": 18,
+    "key": "HARTFD",
+    "name": "Hartford"
+  },
+  {
+    "id": 19,
+    "key": "UMBC",
+    "name": "UMBC"
+  },
+  {
+    "id": 20,
+    "key": "BING",
+    "name": "Binghamton"
+  },
+  {
+    "id": 21,
+    "key": "NCAR",
+    "name": "North Carolina"
+  },
+  {
+    "id": 22,
+    "key": "VIR",
+    "name": "Virginia"
+  },
+  {
+    "id": 23,
+    "key": "MIA",
+    "name": "Miami"
+  },
+  {
+    "id": 24,
+    "key": "LOU",
+    "name": "Louisville"
+  },
+  {
+    "id": 25,
+    "key": "ND",
+    "name": "Notre Dame"
+  },
+  {
+    "id": 26,
+    "key": "DUKE",
+    "name": "Duke"
+  },
+  {
+    "id": 27,
+    "key": "CLMSN",
+    "name": "Clemson"
+  },
+  {
+    "id": 28,
+    "key": "PITT",
+    "name": "Pittsburgh"
+  },
+  {
+    "id": 29,
+    "key": "FLST",
+    "name": "Florida State"
+  },
+  {
+    "id": 30,
+    "key": "SYRA",
+    "name": "Syracuse"
+  },
+  {
+    "id": 31,
+    "key": "VTECH",
+    "name": "Virginia Tech"
+  },
+  {
+    "id": 32,
+    "key": "GTECH",
+    "name": "Georgia Tech"
+  },
+  {
+    "id": 33,
+    "key": "NCST",
+    "name": "North Carolina State"
+  },
+  {
+    "id": 34,
+    "key": "WAKE",
+    "name": "Wake Forest"
+  },
+  {
+    "id": 35,
+    "key": "BOSCOL",
+    "name": "Boston College"
+  },
+  {
+    "id": 36,
+    "key": "NFL",
+    "name": "North Florida"
+  },
+  {
+    "id": 37,
+    "key": "JAX",
+    "name": "Jacksonville"
+  },
+  {
+    "id": 38,
+    "key": "FLGC",
+    "name": "Florida Gulf Coast"
+  },
+  {
+    "id": 39,
+    "key": "NJIT",
+    "name": "NJIT"
+  },
+  {
+    "id": 40,
+    "key": "LIPSC",
+    "name": "Lipscomb"
+  },
+  {
+    "id": 41,
+    "key": "STETSN",
+    "name": "Stetson"
+  },
+  {
+    "id": 42,
+    "key": "KENEST",
+    "name": "Kennesaw State"
+  },
+  {
+    "id": 43,
+    "key": "SCUP",
+    "name": "USC Upstate"
+  },
+  {
+    "id": 44,
+    "key": "DAY",
+    "name": "Dayton"
+  },
+  {
+    "id": 45,
+    "key": "VCU",
+    "name": "VCU"
+  },
+  {
+    "id": 46,
+    "key": "STJOE",
+    "name": "Saint Joseph's"
+  },
+  {
+    "id": 47,
+    "key": "STBON",
+    "name": "St. Bonaventure"
+  },
+  {
+    "id": 48,
+    "key": "GEOWS",
+    "name": "George Washington"
+  },
+  {
+    "id": 49,
+    "key": "DAVID",
+    "name": "Davidson"
+  },
+  {
+    "id": 50,
+    "key": "RI",
+    "name": "Rhode Island"
+  },
+  {
+    "id": 51,
+    "key": "DUQ",
+    "name": "Duquesne"
+  },
+  {
+    "id": 52,
+    "key": "RICH",
+    "name": "Richmond"
+  },
+  {
+    "id": 53,
+    "key": "FORDM",
+    "name": "Fordham"
+  },
+  {
+    "id": 54,
+    "key": "STLOU",
+    "name": "Saint Louis"
+  },
+  {
+    "id": 55,
+    "key": "UMASS",
+    "name": "Massachusetts"
+  },
+  {
+    "id": 56,
+    "key": "GMSN",
+    "name": "George Mason"
+  },
+  {
+    "id": 57,
+    "key": "LASAL",
+    "name": "La Salle"
+  },
+  {
+    "id": 58,
+    "key": "VILL",
+    "name": "Villanova"
+  },
+  {
+    "id": 59,
+    "key": "XAV",
+    "name": "Xavier"
+  },
+  {
+    "id": 60,
+    "key": "SETON",
+    "name": "Seton Hall"
+  },
+  {
+    "id": 61,
+    "key": "CREIGH",
+    "name": "Creighton"
+  },
+  {
+    "id": 62,
+    "key": "GEORGE",
+    "name": "Georgetown"
+  },
+  {
+    "id": 63,
+    "key": "PROV",
+    "name": "Providence"
+  },
+  {
+    "id": 64,
+    "key": "BUTL",
+    "name": "Butler"
+  },
+  {
+    "id": 65,
+    "key": "MARQ",
+    "name": "Marquette"
+  },
+  {
+    "id": 66,
+    "key": "DEPAUL",
+    "name": "DePaul"
+  },
+  {
+    "id": 67,
+    "key": "STJOHN",
+    "name": "St. John's"
+  },
+  {
+    "id": 68,
+    "key": "MONT",
+    "name": "Montana"
+  },
+  {
+    "id": 69,
+    "key": "WEBST",
+    "name": "Weber State"
+  },
+  {
+    "id": 70,
+    "key": "EWASH",
+    "name": "Eastern Washington"
+  },
+  {
+    "id": 71,
+    "key": "NDAK",
+    "name": "North Dakota"
+  },
+  {
+    "id": 72,
+    "key": "IDHST",
+    "name": "Idaho State"
+  },
+  {
+    "id": 73,
+    "key": "IDAHO",
+    "name": "Idaho"
+  },
+  {
+    "id": 74,
+    "key": "MONST",
+    "name": "Montana State"
+  },
+  {
+    "id": 75,
+    "key": "NCOL",
+    "name": "Northern Colorado"
+  },
+  {
+    "id": 76,
+    "key": "PORTST",
+    "name": "Portland State"
+  },
+  {
+    "id": 77,
+    "key": "SACST",
+    "name": "Sacramento State"
+  },
+  {
+    "id": 78,
+    "key": "SUTAH",
+    "name": "Southern Utah"
+  },
+  {
+    "id": 79,
+    "key": "NARZ",
+    "name": "Northern Arizona"
+  },
+  {
+    "id": 80,
+    "key": "NCASHE",
+    "name": "UNC Asheville"
+  },
+  {
+    "id": 81,
+    "key": "COAST",
+    "name": "Coastal Carolina"
+  },
+  {
+    "id": 82,
+    "key": "WINTH",
+    "name": "Winthrop"
+  },
+  {
+    "id": 83,
+    "key": "GARDWB",
+    "name": "Gardner-Webb"
+  },
+  {
+    "id": 84,
+    "key": "LIBRTY",
+    "name": "Liberty"
+  },
+  {
+    "id": 85,
+    "key": "HPNT",
+    "name": "High Point"
+  },
+  {
+    "id": 86,
+    "key": "RADF",
+    "name": "Radford"
+  },
+  {
+    "id": 87,
+    "key": "LONGWD",
+    "name": "Longwood"
+  },
+  {
+    "id": 88,
+    "key": "CHSOU",
+    "name": "Charleston Southern"
+  },
+  {
+    "id": 89,
+    "key": "PRESB",
+    "name": "Presbyterian"
+  },
+  {
+    "id": 90,
+    "key": "CAMP",
+    "name": "Campbell"
+  },
+  {
+    "id": 91,
+    "key": "IOWA",
+    "name": "Iowa"
+  },
+  {
+    "id": 92,
+    "key": "MARY",
+    "name": "Maryland"
+  },
+  {
+    "id": 93,
+    "key": "IND",
+    "name": "Indiana"
+  },
+  {
+    "id": 94,
+    "key": "PUR",
+    "name": "Purdue"
+  },
+  {
+    "id": 95,
+    "key": "MICH",
+    "name": "Michigan"
+  },
+  {
+    "id": 96,
+    "key": "WISC",
+    "name": "Wisconsin"
+  },
+  {
+    "id": 97,
+    "key": "MST",
+    "name": "Michigan State"
+  },
+  {
+    "id": 98,
+    "key": "OHIOST",
+    "name": "Ohio State"
+  },
+  {
+    "id": 99,
+    "key": "NEBR",
+    "name": "Nebraska"
+  },
+  {
+    "id": 100,
+    "key": "NW",
+    "name": "Northwestern"
+  },
+  {
+    "id": 101,
+    "key": "PENNST",
+    "name": "Penn State"
+  },
+  {
+    "id": 102,
+    "key": "ILL",
+    "name": "Illinois"
+  },
+  {
+    "id": 103,
+    "key": "RUTGER",
+    "name": "Rutgers"
+  },
+  {
+    "id": 104,
+    "key": "MINNST",
+    "name": "Minnesota"
+  },
+  {
+    "id": 105,
+    "key": "OKL",
+    "name": "Oklahoma"
+  },
+  {
+    "id": 106,
+    "key": "KAN",
+    "name": "Kansas"
+  },
+  {
+    "id": 107,
+    "key": "WVIR",
+    "name": "West Virginia"
+  },
+  {
+    "id": 108,
+    "key": "BAYL",
+    "name": "Baylor"
+  },
+  {
+    "id": 109,
+    "key": "TX",
+    "name": "Texas"
+  },
+  {
+    "id": 110,
+    "key": "IOWAST",
+    "name": "Iowa State"
+  },
+  {
+    "id": 111,
+    "key": "TXTECH",
+    "name": "Texas Tech"
+  },
+  {
+    "id": 112,
+    "key": "KANST",
+    "name": "Kansas State"
+  },
+  {
+    "id": 113,
+    "key": "OKST",
+    "name": "Oklahoma State"
+  },
+  {
+    "id": 114,
+    "key": "TCU",
+    "name": "TCU"
+  },
+  {
+    "id": 115,
+    "key": "HAWAII",
+    "name": "Hawaii"
+  },
+  {
+    "id": 116,
+    "key": "UCIRV",
+    "name": "UC Irvine"
+  },
+  {
+    "id": 117,
+    "key": "LBST",
+    "name": "Long Beach State"
+  },
+  {
+    "id": 118,
+    "key": "UCDV",
+    "name": "UC Davis"
+  },
+  {
+    "id": 119,
+    "key": "USCB",
+    "name": "UC Santa Barbara"
+  },
+  {
+    "id": 120,
+    "key": "UCRVS",
+    "name": "UC Riverside"
+  },
+  {
+    "id": 121,
+    "key": "CSUNR",
+    "name": "CSUN"
+  },
+  {
+    "id": 122,
+    "key": "CALPOL",
+    "name": "Cal Poly"
+  },
+  {
+    "id": 123,
+    "key": "CSUFL",
+    "name": "Cal State Fullerton"
+  },
+  {
+    "id": 124,
+    "key": "NCW",
+    "name": "UNCW"
+  },
+  {
+    "id": 125,
+    "key": "WM",
+    "name": "William & Mary"
+  },
+  {
+    "id": 126,
+    "key": "JMAD",
+    "name": "James Madison"
+  },
+  {
+    "id": 127,
+    "key": "TOWS",
+    "name": "Towson"
+  },
+  {
+    "id": 128,
+    "key": "HOFST",
+    "name": "Hofstra"
+  },
+  {
+    "id": 129,
+    "key": "CHAR",
+    "name": "Charleston"
+  },
+  {
+    "id": 130,
+    "key": "ELON",
+    "name": "Elon"
+  },
+  {
+    "id": 131,
+    "key": "NEAST",
+    "name": "Northeastern"
+  },
+  {
+    "id": 132,
+    "key": "DREXEL",
+    "name": "Drexel"
+  },
+  {
+    "id": 133,
+    "key": "DEL",
+    "name": "Delaware"
+  },
+  {
+    "id": 134,
+    "key": "UAB",
+    "name": "UAB"
+  },
+  {
+    "id": 135,
+    "key": "MTNST",
+    "name": "Middle Tennessee"
+  },
+  {
+    "id": 136,
+    "key": "MARSH",
+    "name": "Marshall"
+  },
+  {
+    "id": 137,
+    "key": "LOUTCH",
+    "name": "Louisiana Tech"
+  },
+  {
+    "id": 138,
+    "key": "OLD",
+    "name": "Old Dominion"
+  },
+  {
+    "id": 139,
+    "key": "UTEP",
+    "name": "UTEP"
+  },
+  {
+    "id": 140,
+    "key": "FLINT",
+    "name": "Florida International"
+  },
+  {
+    "id": 141,
+    "key": "NTX",
+    "name": "North Texas"
+  },
+  {
+    "id": 142,
+    "key": "CHARLT",
+    "name": "Charlotte"
+  },
+  {
+    "id": 143,
+    "key": "SOUMIS",
+    "name": "Southern Miss"
+  },
+  {
+    "id": 144,
+    "key": "WKENT",
+    "name": "Western Kentucky"
+  },
+  {
+    "id": 145,
+    "key": "FLATL",
+    "name": "Florida Atlantic"
+  },
+  {
+    "id": 146,
+    "key": "RICE",
+    "name": "Rice"
+  },
+  {
+    "id": 147,
+    "key": "UTSA",
+    "name": "UTSA"
+  },
+  {
+    "id": 148,
+    "key": "VALP",
+    "name": "Valparaiso"
+  },
+  {
+    "id": 149,
+    "key": "OAK",
+    "name": "Oakland"
+  },
+  {
+    "id": 150,
+    "key": "WRGHT",
+    "name": "Wright State"
+  },
+  {
+    "id": 151,
+    "key": "WBD",
+    "name": "Milwaukee"
+  },
+  {
+    "id": 152,
+    "key": "GB",
+    "name": "Green Bay"
+  },
+  {
+    "id": 153,
+    "key": "DET",
+    "name": "Detroit"
+  },
+  {
+    "id": 154,
+    "key": "NKENT",
+    "name": "Northern Kentucky"
+  },
+  {
+    "id": 155,
+    "key": "YNGST",
+    "name": "Youngstown State"
+  },
+  {
+    "id": 156,
+    "key": "CLVST",
+    "name": "Cleveland State"
+  },
+  {
+    "id": 157,
+    "key": "ILLCHI",
+    "name": "UIC"
+  },
+  {
+    "id": 158,
+    "key": "YALE",
+    "name": "Yale"
+  },
+  {
+    "id": 159,
+    "key": "COLMB",
+    "name": "Columbia"
+  },
+  {
+    "id": 160,
+    "key": "PRNCE",
+    "name": "Princeton"
+  },
+  {
+    "id": 161,
+    "key": "PENN",
+    "name": "Penn"
+  },
+  {
+    "id": 162,
+    "key": "CORNEL",
+    "name": "Cornell"
+  },
+  {
+    "id": 163,
+    "key": "BROWN",
+    "name": "Brown"
+  },
+  {
+    "id": 164,
+    "key": "HARVRD",
+    "name": "Harvard"
+  },
+  {
+    "id": 165,
+    "key": "DART",
+    "name": "Dartmouth"
+  },
+  {
+    "id": 166,
+    "key": "MONM",
+    "name": "Monmouth"
+  },
+  {
+    "id": 167,
+    "key": "IONA",
+    "name": "Iona"
+  },
+  {
+    "id": 168,
+    "key": "SIENA",
+    "name": "Siena"
+  },
+  {
+    "id": 169,
+    "key": "STPETE",
+    "name": "Saint Peter's"
+  },
+  {
+    "id": 170,
+    "key": "FAIR",
+    "name": "Fairfield"
+  },
+  {
+    "id": 171,
+    "key": "MANH",
+    "name": "Manhattan"
+  },
+  {
+    "id": 172,
+    "key": "CANS",
+    "name": "Canisius"
+  },
+  {
+    "id": 173,
+    "key": "RIDER",
+    "name": "Rider"
+  },
+  {
+    "id": 174,
+    "key": "QUIN",
+    "name": "Quinnipiac"
+  },
+  {
+    "id": 175,
+    "key": "NIAGRA",
+    "name": "Niagara"
+  },
+  {
+    "id": 176,
+    "key": "MARIST",
+    "name": "Marist"
+  },
+  {
+    "id": 177,
+    "key": "AKRON",
+    "name": "Akron"
+  },
+  {
+    "id": 178,
+    "key": "KENTST",
+    "name": "Kent State"
+  },
+  {
+    "id": 179,
+    "key": "BUF",
+    "name": "Buffalo"
+  },
+  {
+    "id": 180,
+    "key": "OHIO",
+    "name": "Ohio"
+  },
+  {
+    "id": 181,
+    "key": "BOWLGR",
+    "name": "Bowling Green"
+  },
+  {
+    "id": 182,
+    "key": "MIAOH",
+    "name": "Miami (OH)"
+  },
+  {
+    "id": 183,
+    "key": "TOLEDO",
+    "name": "Toledo"
+  },
+  {
+    "id": 184,
+    "key": "BALLST",
+    "name": "Ball State"
+  },
+  {
+    "id": 185,
+    "key": "CMICH",
+    "name": "Central Michigan"
+  },
+  {
+    "id": 186,
+    "key": "NILL",
+    "name": "Northern Illinois"
+  },
+  {
+    "id": 187,
+    "key": "EMICH",
+    "name": "Eastern Michigan"
+  },
+  {
+    "id": 188,
+    "key": "WMICH",
+    "name": "Western Michigan"
+  },
+  {
+    "id": 189,
+    "key": "HAMP",
+    "name": "Hampton"
+  },
+  {
+    "id": 190,
+    "key": "SCARST",
+    "name": "South Carolina State"
+  },
+  {
+    "id": 191,
+    "key": "NORFST",
+    "name": "Norfolk State"
+  },
+  {
+    "id": 192,
+    "key": "BCOOK",
+    "name": "Bethune-Cookman"
+  },
+  {
+    "id": 193,
+    "key": "MDES",
+    "name": "Maryland Eastern Shore"
+  },
+  {
+    "id": 194,
+    "key": "SAVST",
+    "name": "Savannah State"
+  },
+  {
+    "id": 195,
+    "key": "HOWRD",
+    "name": "Howard"
+  },
+  {
+    "id": 196,
+    "key": "NCAT",
+    "name": "North Carolina A&T"
+  },
+  {
+    "id": 197,
+    "key": "NCC",
+    "name": "North Carolina Central"
+  },
+  {
+    "id": 198,
+    "key": "FLAM",
+    "name": "Florida A&M"
+  },
+  {
+    "id": 199,
+    "key": "MORGST",
+    "name": "Morgan State"
+  },
+  {
+    "id": 200,
+    "key": "COPPST",
+    "name": "Coppin State"
+  },
+  {
+    "id": 201,
+    "key": "DELST",
+    "name": "Delaware State"
+  },
+  {
+    "id": 202,
+    "key": "WICHST",
+    "name": "Wichita State"
+  },
+  {
+    "id": 203,
+    "key": "EVANS",
+    "name": "Evansville"
+  },
+  {
+    "id": 204,
+    "key": "ILLST",
+    "name": "Illinois State"
+  },
+  {
+    "id": 205,
+    "key": "SILL",
+    "name": "Southern Illinois"
+  },
+  {
+    "id": 206,
+    "key": "NIOWA",
+    "name": "Northern Iowa"
+  },
+  {
+    "id": 207,
+    "key": "INDST",
+    "name": "Indiana State"
+  },
+  {
+    "id": 208,
+    "key": "MSRST",
+    "name": "Missouri State"
+  },
+  {
+    "id": 209,
+    "key": "LOYCH",
+    "name": "Loyola Chicago"
+  },
+  {
+    "id": 210,
+    "key": "BRADLY",
+    "name": "Bradley"
+  },
+  {
+    "id": 211,
+    "key": "DRAKE",
+    "name": "Drake"
+  },
+  {
+    "id": 212,
+    "key": "SDST",
+    "name": "San Diego State"
+  },
+  {
+    "id": 213,
+    "key": "FREST",
+    "name": "Fresno State"
+  },
+  {
+    "id": 214,
+    "key": "NMX",
+    "name": "New Mexico"
+  },
+  {
+    "id": 215,
+    "key": "BOISE",
+    "name": "Boise State"
+  },
+  {
+    "id": 216,
+    "key": "NEVADA",
+    "name": "Nevada"
+  },
+  {
+    "id": 217,
+    "key": "COLST",
+    "name": "Colorado State"
+  },
+  {
+    "id": 218,
+    "key": "UNLV",
+    "name": "UNLV"
+  },
+  {
+    "id": 219,
+    "key": "WYOM",
+    "name": "Wyoming"
+  },
+  {
+    "id": 220,
+    "key": "UTAHST",
+    "name": "Utah State"
+  },
+  {
+    "id": 221,
+    "key": "AIRF",
+    "name": "Air Force"
+  },
+  {
+    "id": 222,
+    "key": "SJST",
+    "name": "San Jose State"
+  },
+  {
+    "id": 223,
+    "key": "WAG",
+    "name": "Wagner"
+  },
+  {
+    "id": 224,
+    "key": "FAIRDK",
+    "name": "Fairleigh Dickinson"
+  },
+  {
+    "id": 225,
+    "key": "STFPA",
+    "name": "St. Francis (PA)"
+  },
+  {
+    "id": 226,
+    "key": "MSTM",
+    "name": "Mount St. Mary's"
+  },
+  {
+    "id": 227,
+    "key": "SACRED",
+    "name": "Sacred Heart"
+  },
+  {
+    "id": 228,
+    "key": "STF",
+    "name": "St. Francis Brooklyn"
+  },
+  {
+    "id": 229,
+    "key": "LIUB",
+    "name": "LIU"
+  },
+  {
+    "id": 230,
+    "key": "ROBMS",
+    "name": "Robert Morris"
+  },
+  {
+    "id": 231,
+    "key": "BRYANT",
+    "name": "Bryant"
+  },
+  {
+    "id": 232,
+    "key": "CENCON",
+    "name": "Central Connecticut State"
+  },
+  {
+    "id": 233,
+    "key": "BELM",
+    "name": "Belmont"
+  },
+  {
+    "id": 234,
+    "key": "TENTCH",
+    "name": "Tennessee Tech"
+  },
+  {
+    "id": 235,
+    "key": "TENST",
+    "name": "Tennessee State"
+  },
+  {
+    "id": 236,
+    "key": "MHST",
+    "name": "Morehead State"
+  },
+  {
+    "id": 237,
+    "key": "EKENT",
+    "name": "Eastern Kentucky"
+  },
+  {
+    "id": 238,
+    "key": "JAXST",
+    "name": "Jacksonville State"
+  },
+  {
+    "id": 239,
+    "key": "EILL",
+    "name": "Eastern Illinois"
+  },
+  {
+    "id": 240,
+    "key": "MURST",
+    "name": "Murray State"
+  },
+  {
+    "id": 241,
+    "key": "TMRT",
+    "name": "UT Martin"
+  },
+  {
+    "id": 242,
+    "key": "AUSP",
+    "name": "Austin Peay"
+  },
+  {
+    "id": 243,
+    "key": "SEMST",
+    "name": "Southeast Missouri State"
+  },
+  {
+    "id": 244,
+    "key": "SIUE",
+    "name": "SIUE"
+  },
+  {
+    "id": 245,
+    "key": "ORE",
+    "name": "Oregon"
+  },
+  {
+    "id": 246,
+    "key": "USC",
+    "name": "USC"
+  },
+  {
+    "id": 247,
+    "key": "ARZ",
+    "name": "Arizona"
+  },
+  {
+    "id": 248,
+    "key": "UTAH",
+    "name": "Utah"
+  },
+  {
+    "id": 249,
+    "key": "WASH",
+    "name": "Washington"
+  },
+  {
+    "id": 250,
+    "key": "COL",
+    "name": "Colorado"
+  },
+  {
+    "id": 251,
+    "key": "CAH",
+    "name": "California"
+  },
+  {
+    "id": 252,
+    "key": "OREGST",
+    "name": "Oregon State"
+  },
+  {
+    "id": 253,
+    "key": "UCLA",
+    "name": "UCLA"
+  },
+  {
+    "id": 254,
+    "key": "STAN",
+    "name": "Stanford"
+  },
+  {
+    "id": 255,
+    "key": "ARZST",
+    "name": "Arizona State"
+  },
+  {
+    "id": 256,
+    "key": "WASHST",
+    "name": "Washington State"
+  },
+  {
+    "id": 257,
+    "key": "BUCK",
+    "name": "Bucknell"
+  },
+  {
+    "id": 258,
+    "key": "NAVY",
+    "name": "Navy"
+  },
+  {
+    "id": 259,
+    "key": "BOSTU",
+    "name": "Boston"
+  },
+  {
+    "id": 260,
+    "key": "LEHI",
+    "name": "Lehigh"
+  },
+  {
+    "id": 261,
+    "key": "COLG",
+    "name": "Colgate"
+  },
+  {
+    "id": 262,
+    "key": "LOYMD",
+    "name": "Loyola Maryland"
+  },
+  {
+    "id": 263,
+    "key": "ARMY",
+    "name": "Army"
+  },
+  {
+    "id": 264,
+    "key": "HOLY",
+    "name": "Holy Cross"
+  },
+  {
+    "id": 265,
+    "key": "AMERCN",
+    "name": "American"
+  },
+  {
+    "id": 266,
+    "key": "LAFAY",
+    "name": "Lafayette"
+  },
+  {
+    "id": 267,
+    "key": "SC",
+    "name": "South Carolina"
+  },
+  {
+    "id": 268,
+    "key": "UK",
+    "name": "Kentucky"
+  },
+  {
+    "id": 269,
+    "key": "LSU",
+    "name": "LSU"
+  },
+  {
+    "id": 270,
+    "key": "TXAM",
+    "name": "Texas A&M"
+  },
+  {
+    "id": 271,
+    "key": "FL",
+    "name": "Florida"
+  },
+  {
+    "id": 272,
+    "key": "GA",
+    "name": "Georgia"
+  },
+  {
+    "id": 273,
+    "key": "VAND",
+    "name": "Vanderbilt"
+  },
+  {
+    "id": 274,
+    "key": "MISS",
+    "name": "Ole Miss"
+  },
+  {
+    "id": 275,
+    "key": "ALA",
+    "name": "Alabama"
+  },
+  {
+    "id": 276,
+    "key": "ARK",
+    "name": "Arkansas"
+  },
+  {
+    "id": 277,
+    "key": "TENN",
+    "name": "Tennessee"
+  },
+  {
+    "id": 278,
+    "key": "MSPST",
+    "name": "Mississippi State"
+  },
+  {
+    "id": 279,
+    "key": "AUBRN",
+    "name": "Auburn"
+  },
+  {
+    "id": 280,
+    "key": "MISSR",
+    "name": "Missouri"
+  },
+  {
+    "id": 281,
+    "key": "CHAT",
+    "name": "Chattanooga"
+  },
+  {
+    "id": 282,
+    "key": "ETNST",
+    "name": "East Tennessee State"
+  },
+  {
+    "id": 283,
+    "key": "FURMAN",
+    "name": "Furman"
+  },
+  {
+    "id": 284,
+    "key": "MERC",
+    "name": "Mercer"
+  },
+  {
+    "id": 285,
+    "key": "WOFF",
+    "name": "Wofford"
+  },
+  {
+    "id": 286,
+    "key": "NCG",
+    "name": "UNCG"
+  },
+  {
+    "id": 287,
+    "key": "WCAR",
+    "name": "Western Carolina"
+  },
+  {
+    "id": 288,
+    "key": "CITA",
+    "name": "The Citadel"
+  },
+  {
+    "id": 289,
+    "key": "SAMF",
+    "name": "Samford"
+  },
+  {
+    "id": 290,
+    "key": "VAMIL",
+    "name": "VMI"
+  },
+  {
+    "id": 291,
+    "key": "SFAUS",
+    "name": "Stephen F. Austin"
+  },
+  {
+    "id": 292,
+    "key": "TAMU",
+    "name": "Texas A&M-Corpus Christi"
+  },
+  {
+    "id": 293,
+    "key": "HOUBAP",
+    "name": "Houston Christian"
+  },
+  {
+    "id": 294,
+    "key": "INCAR",
+    "name": "Incarnate Word"
+  },
+  {
+    "id": 295,
+    "key": "SMHO",
+    "name": "Sam Houston"
+  },
+  {
+    "id": 296,
+    "key": "ABCHR",
+    "name": "Abilene Christian"
+  },
+  {
+    "id": 297,
+    "key": "NO",
+    "name": "New Orleans"
+  },
+  {
+    "id": 298,
+    "key": "CARK",
+    "name": "Central Arkansas"
+  },
+  {
+    "id": 299,
+    "key": "MCNST",
+    "name": "McNeese State"
+  },
+  {
+    "id": 300,
+    "key": "SELOU",
+    "name": "Southeastern Louisiana"
+  },
+  {
+    "id": 301,
+    "key": "NWST",
+    "name": "Northwestern State"
+  },
+  {
+    "id": 302,
+    "key": "NICHLS",
+    "name": "Nicholls"
+  },
+  {
+    "id": 303,
+    "key": "LAMAR",
+    "name": "Lamar"
+  },
+  {
+    "id": 304,
+    "key": "TXS",
+    "name": "Texas Southern"
+  },
+  {
+    "id": 305,
+    "key": "SOUTH",
+    "name": "Southern"
+  },
+  {
+    "id": 306,
+    "key": "JACKST",
+    "name": "Jackson State"
+  },
+  {
+    "id": 307,
+    "key": "ALCST",
+    "name": "Alcorn State"
+  },
+  {
+    "id": 308,
+    "key": "MSVLST",
+    "name": "Mississippi Valley State"
+  },
+  {
+    "id": 309,
+    "key": "ALAAM",
+    "name": "Alabama A&M"
+  },
+  {
+    "id": 310,
+    "key": "ARPB",
+    "name": "Arkansas-Pine Bluff"
+  },
+  {
+    "id": 311,
+    "key": "ALAST",
+    "name": "Alabama State"
+  },
+  {
+    "id": 312,
+    "key": "GRMBST",
+    "name": "Grambling State"
+  },
+  {
+    "id": 313,
+    "key": "PVAM",
+    "name": "Prairie View A&M"
+  },
+  {
+    "id": 314,
+    "key": "SDKST",
+    "name": "South Dakota State"
+  },
+  {
+    "id": 315,
+    "key": "IPFW",
+    "name": "Purdue Fort Wayne"
+  },
+  {
+    "id": 316,
+    "key": "NEOM",
+    "name": "Omaha"
+  },
+  {
+    "id": 317,
+    "key": "IUPUI",
+    "name": "IU Indy"
+  },
+  {
+    "id": 318,
+    "key": "NDKST",
+    "name": "North Dakota State"
+  },
+  {
+    "id": 319,
+    "key": "DEN",
+    "name": "Denver"
+  },
+  {
+    "id": 320,
+    "key": "ORAL",
+    "name": "Oral Roberts"
+  },
+  {
+    "id": 321,
+    "key": "SDAK",
+    "name": "South Dakota"
+  },
+  {
+    "id": 322,
+    "key": "WILL",
+    "name": "Western Illinois"
+  },
+  {
+    "id": 323,
+    "key": "ARLR",
+    "name": "Little Rock"
+  },
+  {
+    "id": 324,
+    "key": "LOULAF",
+    "name": "Louisiana-Lafayette"
+  },
+  {
+    "id": 325,
+    "key": "TXA",
+    "name": "UT Arlington"
+  },
+  {
+    "id": 326,
+    "key": "LAMON",
+    "name": "Louisiana-Monroe"
+  },
+  {
+    "id": 327,
+    "key": "ARKST",
+    "name": "Arkansas State"
+  },
+  {
+    "id": 328,
+    "key": "GAST",
+    "name": "Georgia State"
+  },
+  {
+    "id": 329,
+    "key": "GAS",
+    "name": "Georgia Southern"
+  },
+  {
+    "id": 330,
+    "key": "SALA",
+    "name": "South Alabama"
+  },
+  {
+    "id": 331,
+    "key": "APPLST",
+    "name": "Appalachian State"
+  },
+  {
+    "id": 332,
+    "key": "TXST",
+    "name": "Texas State"
+  },
+  {
+    "id": 333,
+    "key": "TROY",
+    "name": "Troy"
+  },
+  {
+    "id": 334,
+    "key": "GNZG",
+    "name": "Gonzaga"
+  },
+  {
+    "id": 335,
+    "key": "STMRY",
+    "name": "Saint Mary's"
+  },
+  {
+    "id": 336,
+    "key": "BYU",
+    "name": "BYU"
+  },
+  {
+    "id": 337,
+    "key": "PEPP",
+    "name": "Pepperdine"
+  },
+  {
+    "id": 338,
+    "key": "SF",
+    "name": "San Francisco"
+  },
+  {
+    "id": 339,
+    "key": "PACFC",
+    "name": "Pacific"
+  },
+  {
+    "id": 340,
+    "key": "PORT",
+    "name": "Portland"
+  },
+  {
+    "id": 341,
+    "key": "SANCLR",
+    "name": "Santa Clara"
+  },
+  {
+    "id": 342,
+    "key": "SD",
+    "name": "San Diego"
+  },
+  {
+    "id": 343,
+    "key": "LOYMRY",
+    "name": "Loyola Marymount"
+  },
+  {
+    "id": 344,
+    "key": "NMXST",
+    "name": "New Mexico State"
+  },
+  {
+    "id": 345,
+    "key": "GCAN",
+    "name": "Grand Canyon"
+  },
+  {
+    "id": 346,
+    "key": "CSU",
+    "name": "Bakersfield"
+  },
+  {
+    "id": 347,
+    "key": "SEA",
+    "name": "Seattle"
+  },
+  {
+    "id": 348,
+    "key": "UTAHV",
+    "name": "Utah Valley"
+  },
+  {
+    "id": 350,
+    "key": "UTRGV",
+    "name": "Texas-Rio Grande Valley"
+  },
+  {
+    "id": 351,
+    "key": "CHIST",
+    "name": "Chicago State"
+  },
+  {
+    "id": 352,
+    "key": "EMPST",
+    "name": "Emporia St."
+  },
+  {
+    "id": 353,
+    "key": "CHAM",
+    "name": "Chaminade"
+  },
+  {
+    "id": 354,
+    "key": "HDSM",
+    "name": "Hardin-Simmons"
+  },
+  {
+    "id": 355,
+    "key": "FRMN",
+    "name": "Francis Marion"
+  },
+  {
+    "id": 356,
+    "key": "BOWST",
+    "name": "Bowie St."
+  },
+  {
+    "id": 357,
+    "key": "YORK",
+    "name": "York College"
+  },
+  {
+    "id": 361,
+    "key": "ALLEN",
+    "name": "Allen"
+  },
+  {
+    "id": 362,
+    "key": "UMKC",
+    "name": "Kansas City"
+  },
+  {
+    "id": 391,
+    "key": "NMH",
+    "name": "New Mexico Highlands"
+  },
+  {
+    "id": 392,
+    "key": "TXAMC",
+    "name": "East Texas A&M"
+  },
+  {
+    "id": 393,
+    "key": "NWOST",
+    "name": "Northwestern Oklahoma State"
+  },
+  {
+    "id": 394,
+    "key": "CABAP",
+    "name": "California Baptist"
+  },
+  {
+    "id": 396,
+    "key": "NAL",
+    "name": "North Alabama"
+  },
+  {
+    "id": 397,
+    "key": "GBP",
+    "name": "Greensboro"
+  },
+  {
+    "id": 399,
+    "key": "CALVW",
+    "name": "Calvary"
+  },
+  {
+    "id": 400,
+    "key": "CCT",
+    "name": "Champion Christian College"
+  },
+  {
+    "id": 401,
+    "key": "MGS",
+    "name": "Middle Georgia State"
+  },
+  {
+    "id": 402,
+    "key": "CALTECH",
+    "name": "Cal Tech"
+  },
+  {
+    "id": 403,
+    "key": "HHILO",
+    "name": "Hawaii Hilo"
+  },
+  {
+    "id": 404,
+    "key": "WILCAR",
+    "name": "William Carey"
+  },
+  {
+    "id": 405,
+    "key": "PINE",
+    "name": "Pine Manor"
+  },
+  {
+    "id": 406,
+    "key": "STEDWA",
+    "name": "St. Edwards"
+  },
+  {
+    "id": 407,
+    "key": "TRINB",
+    "name": "Trinity Baptist"
+  },
+  {
+    "id": 408,
+    "key": "EWUN",
+    "name": "East-West"
+  },
+  {
+    "id": 409,
+    "key": "SDCHR",
+    "name": "San Diego Christian"
+  },
+  {
+    "id": 410,
+    "key": "HTILLO",
+    "name": "Huston-Tillotson"
+  },
+  {
+    "id": 411,
+    "key": "WMT",
+    "name": "Montana-Western"
+  },
+  {
+    "id": 412,
+    "key": "BETH",
+    "name": "Bethesda"
+  },
+  {
+    "id": 413,
+    "key": "ALBI",
+    "name": "Albion"
+  },
+  {
+    "id": 414,
+    "key": "WILB",
+    "name": "Wilberforce"
+  },
+  {
+    "id": 415,
+    "key": "RUST",
+    "name": "Rust College"
+  },
+  {
+    "id": 416,
+    "key": "HARTWI",
+    "name": "Hartwick"
+  },
+  {
+    "id": 417,
+    "key": "REGEN",
+    "name": "Regent"
+  },
+  {
+    "id": 418,
+    "key": "CLU",
+    "name": "Cal Lutheran"
+  },
+  {
+    "id": 419,
+    "key": "PORTBI",
+    "name": "Portland Bible"
+  },
+  {
+    "id": 420,
+    "key": "REIN",
+    "name": "Reinhardt"
+  },
+  {
+    "id": 421,
+    "key": "CAIR",
+    "name": "Cairn"
+  },
+  {
+    "id": 422,
+    "key": "CIDAH",
+    "name": "College of Idaho"
+  },
+  {
+    "id": 423,
+    "key": "FONT",
+    "name": "Fontbonne"
+  },
+  {
+    "id": 424,
+    "key": "TRINTX",
+    "name": "Trinity (TX)"
+  },
+  {
+    "id": 425,
+    "key": "CENT",
+    "name": "Centenary"
+  },
+  {
+    "id": 426,
+    "key": "MRCD",
+    "name": "California Merced"
+  },
+  {
+    "id": 427,
+    "key": "LEMYN",
+    "name": "Le Moyne"
+  },
+  {
+    "id": 428,
+    "key": "JANDW",
+    "name": "Johnson & Wales (NC)"
+  },
+  {
+    "id": 429,
+    "key": "CSSM",
+    "name": "Cal State San Marcos"
+  },
+  {
+    "id": 430,
+    "key": "LOYOLO",
+    "name": "Loyola (LA)"
+  },
+  {
+    "id": 431,
+    "key": "TXPB",
+    "name": "Texas-Permian Basin"
+  },
+  {
+    "id": 432,
+    "key": "BOB",
+    "name": "Bob Jones"
+  },
+  {
+    "id": 433,
+    "key": "FVST",
+    "name": "Fort Valley State"
+  },
+  {
+    "id": 434,
+    "key": "WARWIL",
+    "name": "Warren Wilson"
+  },
+  {
+    "id": 435,
+    "key": "KYCH",
+    "name": "Kentucky Christian"
+  },
+  {
+    "id": 436,
+    "key": "KOKO",
+    "name": "Indiana-Kokomo"
+  },
+  {
+    "id": 437,
+    "key": "VOORHE",
+    "name": "Voorhees College"
+  },
+  {
+    "id": 440,
+    "key": "FRSTBG",
+    "name": "Frostburg State"
+  },
+  {
+    "id": 441,
+    "key": "UMFK",
+    "name": "Maine-Fort Kent"
+  },
+  {
+    "id": 442,
+    "key": "SCHREI",
+    "name": "Schreiner"
+  },
+  {
+    "id": 443,
+    "key": "TRUST",
+    "name": "Truman State"
+  },
+  {
+    "id": 444,
+    "key": "CENST",
+    "name": "Central State"
+  },
+  {
+    "id": 445,
+    "key": "DUB",
+    "name": "Dubuque"
+  },
+  {
+    "id": 446,
+    "key": "HSST",
+    "name": "Harris-Stowe"
+  },
+  {
+    "id": 447,
+    "key": "MIDAMC",
+    "name": "Mid-America Christian"
+  },
+  {
+    "id": 448,
+    "key": "CONCAU",
+    "name": "Concordia (TX)"
+  },
+  {
+    "id": 449,
+    "key": "CARV",
+    "name": "Carver College"
+  },
+  {
+    "id": 450,
+    "key": "CHRIS",
+    "name": "Christendom College"
+  },
+  {
+    "id": 451,
+    "key": "WSS",
+    "name": "Winston-Salem State"
+  },
+  {
+    "id": 452,
+    "key": "GLEN",
+    "name": "Glenville State"
+  },
+  {
+    "id": 453,
+    "key": "TIFFIN",
+    "name": "Tiffin"
+  },
+  {
+    "id": 454,
+    "key": "BLOM",
+    "name": "Bloomsburg"
+  },
+  {
+    "id": 455,
+    "key": "BPARK",
+    "name": "Brewton-Parker College"
+  },
+  {
+    "id": 456,
+    "key": "HIWA",
+    "name": "Hiwassee College"
+  },
+  {
+    "id": 457,
+    "key": "MOSCT",
+    "name": "Missouri Science & Technology"
+  },
+  {
+    "id": 458,
+    "key": "BENE",
+    "name": "Benedictine Mesa"
+  },
+  {
+    "id": 459,
+    "key": "FLCOL",
+    "name": "Florida College"
+  },
+  {
+    "id": 460,
+    "key": "LIFE",
+    "name": "Life Pacific"
+  },
+  {
+    "id": 461,
+    "key": "MILE",
+    "name": "Miles"
+  },
+  {
+    "id": 462,
+    "key": "AVC",
+    "name": "Averett"
+  },
+  {
+    "id": 463,
+    "key": "HNAMES",
+    "name": "Holy Names"
+  },
+  {
+    "id": 464,
+    "key": "MILLIG",
+    "name": "Milligan"
+  },
+  {
+    "id": 465,
+    "key": "NCWESL",
+    "name": "North Carolina Wesleyan"
+  },
+  {
+    "id": 466,
+    "key": "ROCHEL",
+    "name": "College of New Rochelle"
+  },
+  {
+    "id": 467,
+    "key": "WJU",
+    "name": "William Jessup"
+  },
+  {
+    "id": 468,
+    "key": "MOBILE",
+    "name": "Mobile"
+  },
+  {
+    "id": 469,
+    "key": "FLMEM",
+    "name": "Florida Memorial"
+  },
+  {
+    "id": 470,
+    "key": "SPHIL",
+    "name": "Spring Hill"
+  },
+  {
+    "id": 471,
+    "key": "HOWP",
+    "name": "Howard Payne"
+  },
+  {
+    "id": 472,
+    "key": "BRESC",
+    "name": "Brescia"
+  },
+  {
+    "id": 473,
+    "key": "WILBAP",
+    "name": "Williams Baptist"
+  },
+  {
+    "id": 474,
+    "key": "FISK",
+    "name": "Fisk"
+  },
+  {
+    "id": 475,
+    "key": "WAWA",
+    "name": "Walla Walla"
+  },
+  {
+    "id": 476,
+    "key": "COVENA",
+    "name": "Covenant"
+  },
+  {
+    "id": 477,
+    "key": "TRUE",
+    "name": "Truett-McConnell"
+  },
+  {
+    "id": 478,
+    "key": "LACOLL",
+    "name": "Louisiana College"
+  },
+  {
+    "id": 479,
+    "key": "SONO",
+    "name": "Sonoma State"
+  },
+  {
+    "id": 480,
+    "key": "NWCOLL",
+    "name": "Northwest"
+  },
+  {
+    "id": 481,
+    "key": "NDOH",
+    "name": "Notre Dame College of Ohio"
+  },
+  {
+    "id": 482,
+    "key": "BREC",
+    "name": "Brevard College"
+  },
+  {
+    "id": 483,
+    "key": "STFR",
+    "name": "St. Francis (IL)"
+  },
+  {
+    "id": 484,
+    "key": "TRIFL",
+    "name": "Trinity (FL)"
+  },
+  {
+    "id": 485,
+    "key": "STMAMD",
+    "name": "St. Mary's (MD)"
+  },
+  {
+    "id": 486,
+    "key": "WILMDE",
+    "name": "Wilmington (DE)"
+  },
+  {
+    "id": 487,
+    "key": "CSDH",
+    "name": "Cal State-Dominguez Hills"
+  },
+  {
+    "id": 488,
+    "key": "PIEDMO",
+    "name": "Piedmont"
+  },
+  {
+    "id": 489,
+    "key": "CWA",
+    "name": "Central Washington"
+  },
+  {
+    "id": 490,
+    "key": "MYVLST",
+    "name": "Mayville State"
+  },
+  {
+    "id": 491,
+    "key": "JWCO",
+    "name": "Johnson & Wales (CO)"
+  },
+  {
+    "id": 492,
+    "key": "INNW",
+    "name": "Indiana-Northwest"
+  },
+  {
+    "id": 493,
+    "key": "COE",
+    "name": "Coe"
+  },
+  {
+    "id": 494,
+    "key": "NLAND",
+    "name": "Northland"
+  },
+  {
+    "id": 495,
+    "key": "HOOD",
+    "name": "Hood"
+  },
+  {
+    "id": 496,
+    "key": "PEACE",
+    "name": "William Peace"
+  },
+  {
+    "id": 497,
+    "key": "MILLSA",
+    "name": "Millsaps"
+  },
+  {
+    "id": 499,
+    "key": "MEMAC",
+    "name": "Maine-Machias"
+  },
+  {
+    "id": 500,
+    "key": "SECOL",
+    "name": "Southeastern"
+  },
+  {
+    "id": 501,
+    "key": "NWOHIO",
+    "name": "Northwestern Ohio"
+  },
+  {
+    "id": 502,
+    "key": "FRANU",
+    "name": "Franciscan"
+  },
+  {
+    "id": 503,
+    "key": "CDRVL",
+    "name": "Cedarville"
+  },
+  {
+    "id": 504,
+    "key": "GCSU",
+    "name": "Georgia College & State"
+  },
+  {
+    "id": 505,
+    "key": "STLEO",
+    "name": "St. Leo"
+  },
+  {
+    "id": 506,
+    "key": "WILEY",
+    "name": "Wiley"
+  },
+  {
+    "id": 507,
+    "key": "LYON",
+    "name": "Lyon"
+  },
+  {
+    "id": 508,
+    "key": "BTHKS",
+    "name": "Bethany (KS)"
+  },
+  {
+    "id": 509,
+    "key": "WILUTH",
+    "name": "Wisconsin Lutheran"
+  },
+  {
+    "id": 510,
+    "key": "SOUT",
+    "name": "Southwest"
+  },
+  {
+    "id": 511,
+    "key": "CPENN",
+    "name": "Central Pennsylvania College"
+  },
+  {
+    "id": 512,
+    "key": "HNTGDN",
+    "name": "Huntingdon"
+  },
+  {
+    "id": 513,
+    "key": "UWS",
+    "name": "Wisconsin-Stout"
+  },
+  {
+    "id": 514,
+    "key": "BELLE",
+    "name": "Bellevue"
+  },
+  {
+    "id": 515,
+    "key": "WILSON",
+    "name": "Wilson"
+  },
+  {
+    "id": 516,
+    "key": "FIND",
+    "name": "Findlay"
+  },
+  {
+    "id": 517,
+    "key": "ILBE",
+    "name": "Benedictine"
+  },
+  {
+    "id": 518,
+    "key": "ROSEM",
+    "name": "Rosemont College"
+  },
+  {
+    "id": 519,
+    "key": "KEISR",
+    "name": "Keiser"
+  },
+  {
+    "id": 520,
+    "key": "BRYAN",
+    "name": "Bryan College"
+  },
+  {
+    "id": 521,
+    "key": "IUSB",
+    "name": "IU-South Bend"
+  },
+  {
+    "id": 522,
+    "key": "CMELL",
+    "name": "Carnegie Mellon"
+  },
+  {
+    "id": 523,
+    "key": "WWU",
+    "name": "William Woods"
+  },
+  {
+    "id": 605,
+    "key": "ROCHMI",
+    "name": "Rochester (MI)"
+  },
+  {
+    "id": 606,
+    "key": "MARS",
+    "name": "Mars Hill"
+  },
+  {
+    "id": 607,
+    "key": "CONCMI",
+    "name": "Concordia (MI)"
+  },
+  {
+    "id": 608,
+    "key": "NEWB",
+    "name": "Newbury"
+  },
+  {
+    "id": 609,
+    "key": "CCNY",
+    "name": "City College of New York"
+  },
+  {
+    "id": 610,
+    "key": "MIT",
+    "name": "MIT"
+  },
+  {
+    "id": 611,
+    "key": "EMENNO",
+    "name": "Eastern Mennonite"
+  },
+  {
+    "id": 612,
+    "key": "RIVI",
+    "name": "Rivier"
+  },
+  {
+    "id": 613,
+    "key": "DAVELK",
+    "name": "Davis & Elkins"
+  },
+  {
+    "id": 614,
+    "key": "LRHY",
+    "name": "Lenoir-Rhyne"
+  },
+  {
+    "id": 615,
+    "key": "WASHMD",
+    "name": "Washington College"
+  },
+  {
+    "id": 616,
+    "key": "MID-",
+    "name": "Mid-Atlantic Christian"
+  },
+  {
+    "id": 617,
+    "key": "RAND",
+    "name": "Randolph College"
+  },
+  {
+    "id": 618,
+    "key": "WILM",
+    "name": "Wilmington (OH)"
+  },
+  {
+    "id": 619,
+    "key": "FERRUM",
+    "name": "Ferrum"
+  },
+  {
+    "id": 620,
+    "key": "LEESMC",
+    "name": "Lees-McRae"
+  },
+  {
+    "id": 621,
+    "key": "ETXBAP",
+    "name": "East Texas Baptist"
+  },
+  {
+    "id": 622,
+    "key": "TXWESL",
+    "name": "Texas Wesleyan"
+  },
+  {
+    "id": 623,
+    "key": "OAKLCT",
+    "name": "Oakland City"
+  },
+  {
+    "id": 624,
+    "key": "WEST",
+    "name": "Westcliff"
+  },
+  {
+    "id": 625,
+    "key": "ANGL",
+    "name": "Angelo State"
+  },
+  {
+    "id": 626,
+    "key": "RCKFRD",
+    "name": "Rockford"
+  },
+  {
+    "id": 627,
+    "key": "BEMI",
+    "name": "Bemidji State"
+  },
+  {
+    "id": 628,
+    "key": "UTXT",
+    "name": "Texas-Tyler"
+  },
+  {
+    "id": 629,
+    "key": "CONCIL",
+    "name": "Concordia-Chicago"
+  },
+  {
+    "id": 630,
+    "key": "UNIV",
+    "name": "University of the Virgin Islands"
+  },
+  {
+    "id": 631,
+    "key": "USOUTH",
+    "name": "Sewanee"
+  },
+  {
+    "id": 632,
+    "key": "KENN",
+    "name": "Columbia International"
+  },
+  {
+    "id": 633,
+    "key": "WSTMUT",
+    "name": "Westminster (UT)"
+  },
+  {
+    "id": 634,
+    "key": "CUMBER",
+    "name": "Cumberland"
+  },
+  {
+    "id": 635,
+    "key": "UAA",
+    "name": "Alaska-Anchorage"
+  },
+  {
+    "id": 636,
+    "key": "MULT",
+    "name": "Multnomah"
+  },
+  {
+    "id": 637,
+    "key": "WEBBER",
+    "name": "Webber International"
+  },
+  {
+    "id": 638,
+    "key": "FLTECH",
+    "name": "Florida Tech"
+  },
+  {
+    "id": 639,
+    "key": "COLU",
+    "name": "Washington Adventist"
+  },
+  {
+    "id": 640,
+    "key": "MEVERS",
+    "name": "Medgar Evers"
+  },
+  {
+    "id": 641,
+    "key": "FLCHR",
+    "name": "Johnson (FL)"
+  },
+  {
+    "id": 642,
+    "key": "UWPA",
+    "name": "Wisconsin-Parkside"
+  },
+  {
+    "id": 643,
+    "key": "OGLE",
+    "name": "Oglethorpe"
+  },
+  {
+    "id": 644,
+    "key": "COLCHR",
+    "name": "Colorado Christian"
+  },
+  {
+    "id": 645,
+    "key": "MENLO",
+    "name": "Menlo"
+  },
+  {
+    "id": 646,
+    "key": "SUNY",
+    "name": "SUNY-Canton"
+  },
+  {
+    "id": 647,
+    "key": "STANDR",
+    "name": "St. Andrews Presbyterian"
+  },
+  {
+    "id": 648,
+    "key": "EARL",
+    "name": "Earlham"
+  },
+  {
+    "id": 649,
+    "key": "SEOKST",
+    "name": "Southeastern Oklahoma State"
+  },
+  {
+    "id": 650,
+    "key": "SWAG",
+    "name": "Southwestern Assemblies of God"
+  },
+  {
+    "id": 651,
+    "key": "BVU",
+    "name": "Buena Vista"
+  },
+  {
+    "id": 652,
+    "key": "HNDRX",
+    "name": "Hendrix College"
+  },
+  {
+    "id": 653,
+    "key": "SWUNIV",
+    "name": "Southwestern"
+  },
+  {
+    "id": 654,
+    "key": "UPS",
+    "name": "Puget Sound"
+  },
+  {
+    "id": 655,
+    "key": "ANTE",
+    "name": "Antelope Valley"
+  },
+  {
+    "id": 656,
+    "key": "DES",
+    "name": "DeSales"
+  },
+  {
+    "id": 657,
+    "key": "JWFL",
+    "name": "Johnson & Wales (FL)"
+  },
+  {
+    "id": 658,
+    "key": "BLUMT",
+    "name": "Blue Mountain College"
+  },
+  {
+    "id": 660,
+    "key": "OLLU",
+    "name": "Our Lady of the Lake"
+  },
+  {
+    "id": 661,
+    "key": "JARVCH",
+    "name": "Jarvis Christian"
+  },
+  {
+    "id": 662,
+    "key": "COCOL",
+    "name": "Colorado College"
+  },
+  {
+    "id": 663,
+    "key": "SIMP",
+    "name": "Simpson"
+  },
+  {
+    "id": 665,
+    "key": "TUSK",
+    "name": "Tuskegee"
+  },
+  {
+    "id": 666,
+    "key": "SHEN",
+    "name": "Shenandoah"
+  },
+  {
+    "id": 667,
+    "key": "NOPA",
+    "name": "North Park"
+  },
+  {
+    "id": 668,
+    "key": "CLAR",
+    "name": "Clarion"
+  },
+  {
+    "id": 669,
+    "key": "EMER",
+    "name": "Emerson"
+  },
+  {
+    "id": 670,
+    "key": "GOUC",
+    "name": "Goucher"
+  },
+  {
+    "id": 671,
+    "key": "GOSH",
+    "name": "Goshen"
+  },
+  {
+    "id": 672,
+    "key": "WESLEY",
+    "name": "Wesley College"
+  },
+  {
+    "id": 673,
+    "key": "WAB",
+    "name": "Wabash"
+  },
+  {
+    "id": 674,
+    "key": "CCAR",
+    "name": "LaGrange"
+  },
+  {
+    "id": 675,
+    "key": "PRES",
+    "name": "Presentation"
+  },
+  {
+    "id": 676,
+    "key": "MSV",
+    "name": "Mount Saint Vincent"
+  },
+  {
+    "id": 677,
+    "key": "BRIDVA",
+    "name": "Bridgewater (VA)"
+  },
+  {
+    "id": 678,
+    "key": "MIDW",
+    "name": "Midway"
+  },
+  {
+    "id": 679,
+    "key": "WELC",
+    "name": "Welch"
+  },
+  {
+    "id": 680,
+    "key": "HEIDEL",
+    "name": "Heidelberg"
+  },
+  {
+    "id": 681,
+    "key": "MISE",
+    "name": "Misericordia"
+  },
+  {
+    "id": 682,
+    "key": "QNCY",
+    "name": "Quincy"
+  },
+  {
+    "id": 683,
+    "key": "WNE",
+    "name": "Western New England"
+  },
+  {
+    "id": 684,
+    "key": "PENS",
+    "name": "Pensacola Christian College"
+  },
+  {
+    "id": 685,
+    "key": "UOZA",
+    "name": "University of the Ozarks"
+  },
+  {
+    "id": 686,
+    "key": "TXLUT",
+    "name": "Texas Lutheran"
+  },
+  {
+    "id": 687,
+    "key": "MTTECH",
+    "name": "Montana Tech"
+  },
+  {
+    "id": 688,
+    "key": "MOBAPT",
+    "name": "Missouri Baptist"
+  },
+  {
+    "id": 689,
+    "key": "URBANA",
+    "name": "Urbana"
+  },
+  {
+    "id": 690,
+    "key": "ELMS",
+    "name": "Elms College"
+  },
+  {
+    "id": 691,
+    "key": "CHES",
+    "name": "Chestnut Hill"
+  },
+  {
+    "id": 692,
+    "key": "SHWN",
+    "name": "Shawnee State"
+  },
+  {
+    "id": 693,
+    "key": "CRTLND",
+    "name": "SUNY-Cortland"
+  },
+  {
+    "id": 694,
+    "key": "PFEIFR",
+    "name": "Pfeiffer"
+  },
+  {
+    "id": 695,
+    "key": "MANC",
+    "name": "Manchester"
+  },
+  {
+    "id": 696,
+    "key": "HARDIN",
+    "name": "Harding"
+  },
+  {
+    "id": 697,
+    "key": "TRENAZ",
+    "name": "Trevecca Nazarene"
+  },
+  {
+    "id": 698,
+    "key": "CSST",
+    "name": "Cal State-Stanislaus"
+  },
+  {
+    "id": 699,
+    "key": "NAZA",
+    "name": "Nazareth College"
+  },
+  {
+    "id": 700,
+    "key": "BRYN",
+    "name": "Bryn Athyn"
+  },
+  {
+    "id": 701,
+    "key": "QNS",
+    "name": "Queens College"
+  },
+  {
+    "id": 702,
+    "key": "MCKEND",
+    "name": "McKendree"
+  },
+  {
+    "id": 703,
+    "key": "EWATER",
+    "name": "Edward Waters"
+  },
+  {
+    "id": 704,
+    "key": "LYND",
+    "name": "Vermont State-Lyndon"
+  },
+  {
+    "id": 705,
+    "key": "KEAN",
+    "name": "Kean"
+  },
+  {
+    "id": 706,
+    "key": "MTAL",
+    "name": "Mount Aloysius"
+  },
+  {
+    "id": 707,
+    "key": "BSC",
+    "name": "Birmingham-Southern"
+  },
+  {
+    "id": 708,
+    "key": "DU",
+    "name": "Dominican (IL)"
+  },
+  {
+    "id": 709,
+    "key": "BOYC",
+    "name": "Boyce"
+  },
+  {
+    "id": 710,
+    "key": "KYWE",
+    "name": "Kentucky Wesleyan"
+  },
+  {
+    "id": 711,
+    "key": "NGVILL",
+    "name": "North Greenville"
+  },
+  {
+    "id": 712,
+    "key": "LINCOL",
+    "name": "Lincoln (PA)"
+  },
+  {
+    "id": 713,
+    "key": "NYIT",
+    "name": "NYIT"
+  },
+  {
+    "id": 714,
+    "key": "SPALD",
+    "name": "Spalding"
+  },
+  {
+    "id": 715,
+    "key": "AQUN",
+    "name": "Aquinas College"
+  },
+  {
+    "id": 716,
+    "key": "ILTECH",
+    "name": "Illinois Tech"
+  },
+  {
+    "id": 717,
+    "key": "MNMO",
+    "name": "Minnesota-Morris"
+  },
+  {
+    "id": 718,
+    "key": "WMETTE",
+    "name": "Willamette"
+  },
+  {
+    "id": 719,
+    "key": "WAL",
+    "name": "West Alabama"
+  },
+  {
+    "id": 720,
+    "key": "DEF",
+    "name": "Defiance"
+  },
+  {
+    "id": 721,
+    "key": "ONEO",
+    "name": "SUNY-Oneonta"
+  },
+  {
+    "id": 722,
+    "key": "ECC",
+    "name": "Ecclesia"
+  },
+  {
+    "id": 723,
+    "key": "ENM",
+    "name": "Eastern New Mexico"
+  },
+  {
+    "id": 724,
+    "key": "LEWCL",
+    "name": "Lewis & Clark"
+  },
+  {
+    "id": 725,
+    "key": "METHOD",
+    "name": "Methodist"
+  },
+  {
+    "id": 727,
+    "key": "TOUGAL",
+    "name": "Tougaloo"
+  },
+  {
+    "id": 728,
+    "key": "CONCNE",
+    "name": "Concordia (NE)"
+  },
+  {
+    "id": 729,
+    "key": "SARE",
+    "name": "Salve Regina"
+  },
+  {
+    "id": 730,
+    "key": "MOLL",
+    "name": "Molloy"
+  },
+  {
+    "id": 731,
+    "key": "SWESLE",
+    "name": "Southern Wesleyan"
+  },
+  {
+    "id": 732,
+    "key": "PBAC",
+    "name": "Palm Beach Atlantic"
+  },
+  {
+    "id": 733,
+    "key": "WSTMPA",
+    "name": "Westminster (PA)"
+  },
+  {
+    "id": 734,
+    "key": "SUNYM",
+    "name": "SUNY-Maritime"
+  },
+  {
+    "id": 735,
+    "key": "STMATX",
+    "name": "St. Mary's (TX)"
+  },
+  {
+    "id": 736,
+    "key": "MSBOS",
+    "name": "Massachusetts-Boston"
+  },
+  {
+    "id": 737,
+    "key": "AVEM",
+    "name": "Ave Maria"
+  },
+  {
+    "id": 738,
+    "key": "NWNAZA",
+    "name": "Northwest Nazarene"
+  },
+  {
+    "id": 739,
+    "key": "GOVE",
+    "name": "Governors State"
+  },
+  {
+    "id": 740,
+    "key": "RSCNJ",
+    "name": "Stockton"
+  },
+  {
+    "id": 741,
+    "key": "JAC",
+    "name": "Lindenwood"
+  },
+  {
+    "id": 742,
+    "key": "AVIL",
+    "name": "Avila"
+  },
+  {
+    "id": 743,
+    "key": "HIPACI",
+    "name": "Hawaii Pacific"
+  },
+  {
+    "id": 744,
+    "key": "EOR",
+    "name": "Eastern Oregon"
+  },
+  {
+    "id": 745,
+    "key": "FAY",
+    "name": "Fayetteville State"
+  },
+  {
+    "id": 746,
+    "key": "SWST",
+    "name": "Southwest Minnesota State"
+  },
+  {
+    "id": 747,
+    "key": "PUCA",
+    "name": "Purdue Northwest"
+  },
+  {
+    "id": 748,
+    "key": "MCMR",
+    "name": "McMurry"
+  },
+  {
+    "id": 749,
+    "key": "COKER",
+    "name": "Coker"
+  },
+  {
+    "id": 750,
+    "key": "DXST",
+    "name": "Utah Tech"
+  },
+  {
+    "id": 751,
+    "key": "ARMON",
+    "name": "Arkansas-Monticello"
+  },
+  {
+    "id": 752,
+    "key": "DALCHR",
+    "name": "Dallas Christian"
+  },
+  {
+    "id": 753,
+    "key": "BTHTN",
+    "name": "Bethel (TN)"
+  },
+  {
+    "id": 754,
+    "key": "CMPVLE",
+    "name": "Campbellsville"
+  },
+  {
+    "id": 755,
+    "key": "LAV",
+    "name": "La Verne"
+  },
+  {
+    "id": 756,
+    "key": "OBER",
+    "name": "Oberlin College"
+  },
+  {
+    "id": 757,
+    "key": "FLOR",
+    "name": "Florida National"
+  },
+  {
+    "id": 758,
+    "key": "JOWAL",
+    "name": "Johnson & Wales (RI)"
+  },
+  {
+    "id": 759,
+    "key": "MCGI",
+    "name": "McGill"
+  },
+  {
+    "id": 760,
+    "key": "DCKSNS",
+    "name": "Dickinson State"
+  },
+  {
+    "id": 761,
+    "key": "SKIDMO",
+    "name": "Skidmore"
+  },
+  {
+    "id": 762,
+    "key": "ELMIRA",
+    "name": "Elmira"
+  },
+  {
+    "id": 764,
+    "key": "UCSC",
+    "name": "California-Santa Cruz"
+  },
+  {
+    "id": 765,
+    "key": "WAYB",
+    "name": "Wayland Baptist"
+  },
+  {
+    "id": 766,
+    "key": "TAMI",
+    "name": "Texas A&M-International"
+  },
+  {
+    "id": 767,
+    "key": "WCBAP",
+    "name": "West Coast Baptist"
+  },
+  {
+    "id": 768,
+    "key": "MISSCO",
+    "name": "Mississippi College"
+  },
+  {
+    "id": 769,
+    "key": "COLL",
+    "name": "College of Saint Elizabeth"
+  },
+  {
+    "id": 770,
+    "key": "SIENHT",
+    "name": "Siena Heights"
+  },
+  {
+    "id": 771,
+    "key": "IW",
+    "name": "St. Joseph's (NY-Brooklyn)"
+  },
+  {
+    "id": 772,
+    "key": "ARBAP",
+    "name": "Arlington Baptist"
+  },
+  {
+    "id": 773,
+    "key": "SEBAP",
+    "name": "Southeastern Baptist"
+  },
+  {
+    "id": 774,
+    "key": "OCHIL",
+    "name": "Ohio Chillicothe"
+  },
+  {
+    "id": 775,
+    "key": "PSWB",
+    "name": "Penn State-Wilkes-Barre"
+  },
+  {
+    "id": 776,
+    "key": "CASLA",
+    "name": "Cal State-Los Angeles"
+  },
+  {
+    "id": 777,
+    "key": "NMU",
+    "name": "Northern Michigan"
+  },
+  {
+    "id": 778,
+    "key": "SDSM",
+    "name": "South Dakota School of Mines"
+  },
+  {
+    "id": 779,
+    "key": "MONTE",
+    "name": "Montevallo"
+  },
+  {
+    "id": 780,
+    "key": "CRBN",
+    "name": "Corban"
+  },
+  {
+    "id": 784,
+    "key": "MSUN",
+    "name": "Montana State-Northern"
+  },
+  {
+    "id": 785,
+    "key": "FARM",
+    "name": "Farmingdale State"
+  },
+  {
+    "id": 786,
+    "key": "SWBP",
+    "name": "Southwest Baptist"
+  },
+  {
+    "id": 787,
+    "key": "NYCT",
+    "name": "New York City Tech"
+  },
+  {
+    "id": 789,
+    "key": "WCST",
+    "name": "Western Colorado"
+  },
+  {
+    "id": 790,
+    "key": "BW",
+    "name": "Bacone"
+  },
+  {
+    "id": 791,
+    "key": "TOM",
+    "name": "Thomas"
+  },
+  {
+    "id": 792,
+    "key": "ALM",
+    "name": "Alma"
+  },
+  {
+    "id": 793,
+    "key": "ARTECH",
+    "name": "Arkansas Tech"
+  },
+  {
+    "id": 794,
+    "key": "MMM",
+    "name": "Maine Maritime"
+  },
+  {
+    "id": 795,
+    "key": "EMHEN",
+    "name": "Emory & Henry"
+  },
+  {
+    "id": 796,
+    "key": "CALDW",
+    "name": "Caldwell"
+  },
+  {
+    "id": 797,
+    "key": "GNV",
+    "name": "Geneva"
+  },
+  {
+    "id": 798,
+    "key": "GALLU",
+    "name": "Gallaudet"
+  },
+  {
+    "id": 799,
+    "key": "LUTHE",
+    "name": "Luther"
+  },
+  {
+    "id": 800,
+    "key": "JDSNE",
+    "name": "Judson"
+  },
+  {
+    "id": 801,
+    "key": "CRNWE",
+    "name": "Carson-Newman"
+  },
+  {
+    "id": 802,
+    "key": "NEKEA",
+    "name": "Nebraska-Kearney"
+  },
+  {
+    "id": 803,
+    "key": "COKLB",
+    "name": "Central Oklahoma"
+  },
+  {
+    "id": 804,
+    "key": "MRYVLS",
+    "name": "Maryville (MO)"
+  },
+  {
+    "id": 805,
+    "key": "WIDENP",
+    "name": "Widener"
+  },
+  {
+    "id": 806,
+    "key": "TAMPAS",
+    "name": "Tampa"
+  },
+  {
+    "id": 808,
+    "key": "WMPATP",
+    "name": "William Paterson"
+  },
+  {
+    "id": 809,
+    "key": "MLCW",
+    "name": "Midland Lutheran"
+  },
+  {
+    "id": 810,
+    "key": "NEBWESP",
+    "name": "Nebraska Wesleyan"
+  },
+  {
+    "id": 811,
+    "key": "FREEDL",
+    "name": "Freed-Hardeman"
+  },
+  {
+    "id": 812,
+    "key": "CTCOLLC",
+    "name": "Connecticut College"
+  },
+  {
+    "id": 813,
+    "key": "WESTMOW",
+    "name": "Westmont"
+  },
+  {
+    "id": 814,
+    "key": "SKCF",
+    "name": "Saint Katherine College"
+  },
+  {
+    "id": 815,
+    "key": "PURPAN",
+    "name": "Purchase"
+  },
+  {
+    "id": 816,
+    "key": "SBERS",
+    "name": "St. Bernard"
+  },
+  {
+    "id": 817,
+    "key": "MERRI",
+    "name": "Merrimack College"
+  },
+  {
+    "id": 818,
+    "key": "AKFBN",
+    "name": "Alaska Fairbanks"
+  },
+  {
+    "id": 819,
+    "key": "XAVLA",
+    "name": "Xavier (LA)"
+  },
+  {
+    "id": 820,
+    "key": "ERSFF",
+    "name": "Erskine"
+  },
+  {
+    "id": 822,
+    "key": "JCSG",
+    "name": "Johnson C. Smith"
+  },
+  {
+    "id": 823,
+    "key": "UMSLR",
+    "name": "Missouri-St.Louis"
+  },
+  {
+    "id": 824,
+    "key": "CECHT",
+    "name": "Central Christian College"
+  },
+  {
+    "id": 825,
+    "key": "CHDE",
+    "name": "Chadron State"
+  },
+  {
+    "id": 826,
+    "key": "BENCR",
+    "name": "Benedictine College"
+  },
+  {
+    "id": 827,
+    "key": "CBAPM",
+    "name": "Central Baptist College"
+  },
+  {
+    "id": 828,
+    "key": "CSSBC",
+    "name": "CSU San Bernardino"
+  },
+  {
+    "id": 829,
+    "key": "LSUAG",
+    "name": "LSU-Alexandria"
+  },
+  {
+    "id": 831,
+    "key": "CNCUE",
+    "name": "Cincinnati Christian"
+  },
+  {
+    "id": 832,
+    "key": "OLIVE",
+    "name": "Olivet College"
+  },
+  {
+    "id": 833,
+    "key": "NDMG",
+    "name": "Notre Dame of Maryland"
+  },
+  {
+    "id": 834,
+    "key": "CULV",
+    "name": "Culver-Stockton"
+  },
+  {
+    "id": 835,
+    "key": "TBKT",
+    "name": "Thomas University"
+  },
+  {
+    "id": 836,
+    "key": "WARUR",
+    "name": "Warner"
+  },
+  {
+    "id": 837,
+    "key": "CRMTS",
+    "name": "Carroll (MT)"
+  },
+  {
+    "id": 838,
+    "key": "PERUB",
+    "name": "Peru State College"
+  },
+  {
+    "id": 839,
+    "key": "UISP",
+    "name": "Illinois-Springfield Prairie "
+  },
+  {
+    "id": 840,
+    "key": "WPCK",
+    "name": "Warner Pacific College"
+  },
+  {
+    "id": 841,
+    "key": "MORRI",
+    "name": "Morris College"
+  },
+  {
+    "id": 842,
+    "key": "DAKU",
+    "name": "Dakota Wesleyan"
+  },
+  {
+    "id": 843,
+    "key": "PQT",
+    "name": "Paul Quinn"
+  },
+  {
+    "id": 844,
+    "key": "ROCKH",
+    "name": "Rockhurst"
+  },
+  {
+    "id": 845,
+    "key": "BPORT",
+    "name": "Bridgeport"
+  },
+  {
+    "id": 846,
+    "key": "ENAZ",
+    "name": "Eastern Nazarene"
+  },
+  {
+    "id": 847,
+    "key": "SNOK",
+    "name": "Southern-New Orleans"
+  },
+  {
+    "id": 848,
+    "key": "PJMC",
+    "name": "Pittsburgh-Johnstown"
+  },
+  {
+    "id": 849,
+    "key": "ALCE",
+    "name": "Alice Lloyd College"
+  },
+  {
+    "id": 850,
+    "key": "AHC",
+    "name": "Alabama Huntsville"
+  },
+  {
+    "id": 851,
+    "key": "SID",
+    "name": "Staten Island"
+  },
+  {
+    "id": 852,
+    "key": "MOCO",
+    "name": "Montreat College"
+  },
+  {
+    "id": 853,
+    "key": "LETYJ",
+    "name": "Le Tourneau"
+  },
+  {
+    "id": 854,
+    "key": "FDMU",
+    "name": "FDU Madison"
+  },
+  {
+    "id": 855,
+    "key": "FISF",
+    "name": "Fisher College"
+  },
+  {
+    "id": 856,
+    "key": "HUSSB",
+    "name": "Husson"
+  },
+  {
+    "id": 857,
+    "key": "WALW",
+    "name": "Waldorf College"
+  },
+  {
+    "id": 858,
+    "key": "NBRI",
+    "name": "Newberry"
+  },
+  {
+    "id": 859,
+    "key": "OAKA",
+    "name": "Oakwood"
+  },
+  {
+    "id": 860,
+    "key": "CRF",
+    "name": "Crowleys Ridge"
+  },
+  {
+    "id": 861,
+    "key": "NNME",
+    "name": "Northern New Mexico"
+  },
+  {
+    "id": 862,
+    "key": "MARIK",
+    "name": "Marian"
+  },
+  {
+    "id": 863,
+    "key": "MMCL",
+    "name": "Mount Mary College"
+  },
+  {
+    "id": 864,
+    "key": "OWEN",
+    "name": "Le Moyne-Owen"
+  },
+  {
+    "id": 865,
+    "key": "CCSC",
+    "name": "Columbia College (SC)"
+  },
+  {
+    "id": 866,
+    "key": "WOU",
+    "name": "Western Oregon"
+  },
+  {
+    "id": 867,
+    "key": "ASH",
+    "name": "Asbury"
+  },
+  {
+    "id": 868,
+    "key": "MUSK",
+    "name": "Muskingum"
+  },
+  {
+    "id": 869,
+    "key": "PHS",
+    "name": "Philander Smith"
+  },
+  {
+    "id": 870,
+    "key": "OTAZ",
+    "name": "Ottawa (AZ)"
+  },
+  {
+    "id": 871,
+    "key": "SCSU",
+    "name": "Southern Connecticut State"
+  },
+  {
+    "id": 872,
+    "key": "WILJ",
+    "name": "William Jewell"
+  },
+  {
+    "id": 873,
+    "key": "CONV",
+    "name": "Converse College"
+  },
+  {
+    "id": 874,
+    "key": "BETHB",
+    "name": "Anaheim"
+  },
+  {
+    "id": 875,
+    "key": "PAIN",
+    "name": "Paine"
+  },
+  {
+    "id": 876,
+    "key": "ALBS",
+    "name": "Albany State (GA)"
+  },
+  {
+    "id": 877,
+    "key": "SHOR",
+    "name": "Shorter"
+  },
+  {
+    "id": 878,
+    "key": "STE",
+    "name": "Health Sciences and Pharmacy"
+  },
+  {
+    "id": 879,
+    "key": "WMA",
+    "name": "Wheaton College (MA)"
+  },
+  {
+    "id": 880,
+    "key": "JCSC",
+    "name": "New Jersey City"
+  },
+  {
+    "id": 881,
+    "key": "PHCH",
+    "name": "Philadelphia"
+  },
+  {
+    "id": 883,
+    "key": "PACOR",
+    "name": "Pacific (OR)"
+  },
+  {
+    "id": 884,
+    "key": "MRYV",
+    "name": "Maryville (TN)"
+  },
+  {
+    "id": 885,
+    "key": "MDV",
+    "name": "Michigan Dearborn"
+  },
+  {
+    "id": 886,
+    "key": "FLAG",
+    "name": "Flagler"
+  },
+  {
+    "id": 887,
+    "key": "VF",
+    "name": "Valley Forge"
+  },
+  {
+    "id": 888,
+    "key": "CURR",
+    "name": "Curry College"
+  },
+  {
+    "id": 889,
+    "key": "MALONE",
+    "name": "Malone"
+  },
+  {
+    "id": 890,
+    "key": "CINC",
+    "name": "Cincinnati Clermont"
+  },
+  {
+    "id": 891,
+    "key": "MVS",
+    "name": "Marymount VA"
+  },
+  {
+    "id": 892,
+    "key": "FUDF",
+    "name": "FDU-Florham"
+  },
+  {
+    "id": 893,
+    "key": "RHODE",
+    "name": "Rhodes College"
+  },
+  {
+    "id": 894,
+    "key": "THIEL",
+    "name": "Thiel College"
+  },
+  {
+    "id": 896,
+    "key": "CONC",
+    "name": "Concordia University (WI)"
+  },
+  {
+    "id": 898,
+    "key": "OLIVET",
+    "name": "Olivet Nazarene"
+  },
+  {
+    "id": 899,
+    "key": "ILLWES",
+    "name": "Illinois Wesleyan "
+  },
+  {
+    "id": 900,
+    "key": "UAT",
+    "name": "University of Texas at Dallas"
+  },
+  {
+    "id": 901,
+    "key": "DELTA",
+    "name": "Delta State"
+  },
+  {
+    "id": 902,
+    "key": "DAVEN",
+    "name": "Davenport"
+  },
+  {
+    "id": 903,
+    "key": "WNM",
+    "name": "Western New Mexico"
+  },
+  {
+    "id": 904,
+    "key": "PLL",
+    "name": "Pacific Lutheran"
+  },
+  {
+    "id": 905,
+    "key": "EVER",
+    "name": "Evergreen State"
+  },
+  {
+    "id": 906,
+    "key": "NDM",
+    "name": "Notre Dame de Namur"
+  },
+  {
+    "id": 907,
+    "key": "HIRAM",
+    "name": "Hiram"
+  },
+  {
+    "id": 908,
+    "key": "PIKE",
+    "name": "Pikeville"
+  },
+  {
+    "id": 909,
+    "key": "CHIM",
+    "name": "Chicago"
+  },
+  {
+    "id": 910,
+    "key": "CROWN",
+    "name": "Crown College"
+  },
+  {
+    "id": 911,
+    "key": "HAMPT",
+    "name": "Hampden-Sydney"
+  },
+  {
+    "id": 912,
+    "key": "SPOLY",
+    "name": "SUNY Poly"
+  },
+  {
+    "id": 913,
+    "key": "EDIN",
+    "name": "Edinboro"
+  },
+  {
+    "id": 914,
+    "key": "ROCKY",
+    "name": "Rocky"
+  },
+  {
+    "id": 915,
+    "key": "GETTY",
+    "name": "Gettysburg"
+  },
+  {
+    "id": 917,
+    "key": "AND",
+    "name": "Anderson (IN)"
+  },
+  {
+    "id": 918,
+    "key": "NEW",
+    "name": "Newport News Apprentice"
+  },
+  {
+    "id": 919,
+    "key": "VWH",
+    "name": "Virginia-Wise Highland"
+  },
+  {
+    "id": 920,
+    "key": "PACI",
+    "name": "Pacific Union"
+  },
+  {
+    "id": 921,
+    "key": "FAIRS",
+    "name": "Fairmont State"
+  },
+  {
+    "id": 922,
+    "key": "PHO",
+    "name": "Phoenix"
+  },
+  {
+    "id": 923,
+    "key": "GORDON",
+    "name": "Gordon College"
+  },
+  {
+    "id": 924,
+    "key": "SIMPS",
+    "name": "Simpson College"
+  },
+  {
+    "id": 925,
+    "key": "SUNYPO",
+    "name": "SUNY Potsdam"
+  },
+  {
+    "id": 926,
+    "key": "ROGERS",
+    "name": "Rogers State"
+  },
+  {
+    "id": 927,
+    "key": "CORN",
+    "name": "Cornell College"
+  },
+  {
+    "id": 928,
+    "key": "RED",
+    "name": "Redlands"
+  },
+  {
+    "id": 929,
+    "key": "BLUE",
+    "name": "Bluefield State"
+  },
+  {
+    "id": 930,
+    "key": "CONCC",
+    "name": "Concord College"
+  },
+  {
+    "id": 931,
+    "key": "LESLEY",
+    "name": "Lesley"
+  },
+  {
+    "id": 932,
+    "key": "FPS",
+    "name": "Fresno Pacific"
+  },
+  {
+    "id": 933,
+    "key": "TRINIL",
+    "name": "Trinity (IL)"
+  },
+  {
+    "id": 934,
+    "key": "THOMAS",
+    "name": "St. Thomas (TX)"
+  },
+  {
+    "id": 935,
+    "key": "OHNO",
+    "name": "Ohio Northern"
+  },
+  {
+    "id": 936,
+    "key": "SWCU",
+    "name": "Southwestern Christian"
+  },
+  {
+    "id": 937,
+    "key": "NORTH",
+    "name": "North Central"
+  },
+  {
+    "id": 938,
+    "key": "ECT",
+    "name": "East Central"
+  },
+  {
+    "id": 939,
+    "key": "EUREKA",
+    "name": "Eureka"
+  },
+  {
+    "id": 940,
+    "key": "ED",
+    "name": "Edmonds"
+  },
+  {
+    "id": 942,
+    "key": "TOCCOA",
+    "name": "Toccoa Falls"
+  },
+  {
+    "id": 943,
+    "key": "SAGU",
+    "name": "SAGU American Indian College"
+  },
+  {
+    "id": 945,
+    "key": "POST",
+    "name": "LIU Post"
+  },
+  {
+    "id": 946,
+    "key": "AUB",
+    "name": "Auburn Montgomery"
+  },
+  {
+    "id": 947,
+    "key": "GUELPH",
+    "name": "Guelph"
+  },
+  {
+    "id": 948,
+    "key": "EASTERN",
+    "name": "Eastern"
+  },
+  {
+    "id": 949,
+    "key": "RIO",
+    "name": "Rio Grande "
+  },
+  {
+    "id": 950,
+    "key": "MARTY",
+    "name": "Mount Marty"
+  },
+  {
+    "id": 952,
+    "key": "WES",
+    "name": "Tennessee Wesleyan"
+  },
+  {
+    "id": 953,
+    "key": "HASK",
+    "name": "Haskell"
+  },
+  {
+    "id": 954,
+    "key": "SUMMIT",
+    "name": "Clarks Summit"
+  },
+  {
+    "id": 955,
+    "key": "GANNON",
+    "name": "Gannon"
+  },
+  {
+    "id": 956,
+    "key": "FAMILY",
+    "name": "Holy Family"
+  },
+  {
+    "id": 957,
+    "key": "STLB",
+    "name": "St. Thomas (FL)"
+  },
+  {
+    "id": 958,
+    "key": "BAC",
+    "name": "Belmont Abbey"
+  },
+  {
+    "id": 959,
+    "key": "CCMO",
+    "name": "Central Christian (MO)"
+  },
+  {
+    "id": 960,
+    "key": "SFS",
+    "name": "San Francisco State"
+  },
+  {
+    "id": 961,
+    "key": "LAND",
+    "name": "Lander"
+  },
+  {
+    "id": 962,
+    "key": "QUEEN",
+    "name": "Queens (NC)"
+  },
+  {
+    "id": 963,
+    "key": "RAN",
+    "name": "Randall"
+  },
+  {
+    "id": 964,
+    "key": "NCMN",
+    "name": "North Central (MN)"
+  },
+  {
+    "id": 969,
+    "key": "THOM",
+    "name": "Thomas (GA)"
+  },
+  {
+    "id": 970,
+    "key": "DOANE",
+    "name": "Doane"
+  },
+  {
+    "id": 971,
+    "key": "CHOW",
+    "name": "Chowan"
+  },
+  {
+    "id": 972,
+    "key": "SUL",
+    "name": "Sul Ross State"
+  },
+  {
+    "id": 973,
+    "key": "LINDEN",
+    "name": "Lindenwood-Belleville"
+  },
+  {
+    "id": 975,
+    "key": "MSJ",
+    "name": "Mt. St. Joseph"
+  },
+  {
+    "id": 976,
+    "key": "WHIT",
+    "name": "Whittier"
+  },
+  {
+    "id": 977,
+    "key": "NAS",
+    "name": "North American"
+  },
+  {
+    "id": 978,
+    "key": "MDW",
+    "name": "Michigan-Dearborn"
+  },
+  {
+    "id": 979,
+    "key": "OCE",
+    "name": "Oklahoma Christian"
+  },
+  {
+    "id": 981,
+    "key": "GCL",
+    "name": "Georgian Court"
+  },
+  {
+    "id": 983,
+    "key": "UMSL",
+    "name": "University of Missouri-St.Louis"
+  },
+  {
+    "id": 984,
+    "key": "HASKELL",
+    "name": "Haskell Indian Nations"
+  },
+  {
+    "id": 985,
+    "key": "HFAMILY",
+    "name": "Holy Family College"
+  },
+  {
+    "id": 986,
+    "key": "PSY",
+    "name": "Penn State-York"
+  },
+  {
+    "id": 987,
+    "key": "VAN",
+    "name": "Vanguard"
+  },
+  {
+    "id": 988,
+    "key": "MORE",
+    "name": "Morehouse College"
+  },
+  {
+    "id": 989,
+    "key": "LEWIS",
+    "name": "Lewis"
+  },
+  {
+    "id": 990,
+    "key": "CSEB",
+    "name": "Cal State-East Bay"
+  },
+  {
+    "id": 991,
+    "key": "PLN",
+    "name": "Point Loma Nazarene"
+  },
+  {
+    "id": 992,
+    "key": "MUHL",
+    "name": "Muhlenberg"
+  },
+  {
+    "id": 993,
+    "key": "MSM",
+    "name": "Minnesota State-Mankato"
+  },
+  {
+    "id": 994,
+    "key": "SRU",
+    "name": "Slippery Rock"
+  },
+  {
+    "id": 995,
+    "key": "SJM",
+    "name": "Saint John's (MN)"
+  },
+  {
+    "id": 996,
+    "key": "UWW",
+    "name": "Wisconsin-Whitewater"
+  },
+  {
+    "id": 997,
+    "key": "UWF",
+    "name": "West Florida"
+  },
+  {
+    "id": 998,
+    "key": "FSB",
+    "name": "Ferris State"
+  },
+  {
+    "id": 999,
+    "key": "CLRK",
+    "name": "Clark"
+  },
+  {
+    "id": 1000,
+    "key": "SUB",
+    "name": "Shaw"
+  },
+  {
+    "id": 1001,
+    "key": "LBB",
+    "name": "Livingstone"
+  },
+  {
+    "id": 1002,
+    "key": "DBU",
+    "name": "Dallas Baptist"
+  },
+  {
+    "id": 1003,
+    "key": "OBB",
+    "name": "Oklahoma Baptist"
+  },
+  {
+    "id": 1004,
+    "key": "DOCP",
+    "name": "Dominican (CA)"
+  },
+  {
+    "id": 1005,
+    "key": "AAUK",
+    "name": "Academy of Art"
+  },
+  {
+    "id": 1006,
+    "key": "CUI",
+    "name": "Concordia-Irvine"
+  },
+  {
+    "id": 1007,
+    "key": "UCSD",
+    "name": "California-San Diego"
+  },
+  {
+    "id": 1009,
+    "key": "SHP",
+    "name": "Shippensburg"
+  },
+  {
+    "id": 1011,
+    "key": "UCCS",
+    "name": "Colorado-Colorado Springs"
+  },
+  {
+    "id": 1012,
+    "key": "NTHW",
+    "name": "Northwood"
+  },
+  {
+    "id": 1013,
+    "key": "ECKC",
+    "name": "Eckerd College"
+  },
+  {
+    "id": 1014,
+    "key": "MSR",
+    "name": "Metropolitan State"
+  },
+  {
+    "id": 1016,
+    "key": "RUTC",
+    "name": "Rutgers-Camden"
+  },
+  {
+    "id": 1017,
+    "key": "CRC",
+    "name": "Crowley's Ridge College"
+  },
+  {
+    "id": 1018,
+    "key": "VST",
+    "name": "Virginia State"
+  },
+  {
+    "id": 1019,
+    "key": "VUP",
+    "name": "Virginia Union"
+  },
+  {
+    "id": 1020,
+    "key": "CUP",
+    "name": "Claflin"
+  },
+  {
+    "id": 1021,
+    "key": "OHC",
+    "name": "Oak Hill Christian"
+  },
+  {
+    "id": 1023,
+    "key": "DEA",
+    "name": "Dean College"
+  },
+  {
+    "id": 1024,
+    "key": "TARL",
+    "name": "Tarleton State"
+  },
+  {
+    "id": 1025,
+    "key": "BELLA",
+    "name": "Bellarmine"
+  },
+  {
+    "id": 1028,
+    "key": "BEL",
+    "name": "Belhaven"
+  },
+  {
+    "id": 1029,
+    "key": "INDY",
+    "name": "Indianapolis"
+  },
+  {
+    "id": 1030,
+    "key": "VAW",
+    "name": "VA Wesleyan"
+  },
+  {
+    "id": 1031,
+    "key": "PPU",
+    "name": "Point Park"
+  },
+  {
+    "id": 1032,
+    "key": "ADAMS",
+    "name": "Adams State"
+  },
+  {
+    "id": 1033,
+    "key": "NG",
+    "name": "North Georgia"
+  },
+  {
+    "id": 1034,
+    "key": "LIME",
+    "name": "Limestone"
+  },
+  {
+    "id": 1035,
+    "key": "LBC",
+    "name": "Lancaster Bible College"
+  },
+  {
+    "id": 1036,
+    "key": "SHRE",
+    "name": "LSU-Shreveport"
+  },
+  {
+    "id": 1037,
+    "key": "GSW",
+    "name": "Georgia Southwestern State"
+  },
+  {
+    "id": 1038,
+    "key": "CARO",
+    "name": "Carolina"
+  },
+  {
+    "id": 1039,
+    "key": "RIC",
+    "name": "Rhode Island College"
+  },
+  {
+    "id": 1040,
+    "key": "MHB",
+    "name": "Mary Hardin-Baylor"
+  },
+  {
+    "id": 1041,
+    "key": "TAMT",
+    "name": "Texas A&M-Texarkana"
+  },
+  {
+    "id": 1042,
+    "key": "CARLOW",
+    "name": "Carlow"
+  },
+  {
+    "id": 1043,
+    "key": "EMM",
+    "name": "Emmanuel"
+  },
+  {
+    "id": 1044,
+    "key": "CSC",
+    "name": "Columbus State"
+  },
+  {
+    "id": 1045,
+    "key": "EVA",
+    "name": "Evangel "
+  },
+  {
+    "id": 1046,
+    "key": "TIU",
+    "name": "Trinity International"
+  },
+  {
+    "id": 1047,
+    "key": "TUP",
+    "name": "Transylvania"
+  },
+  {
+    "id": 1048,
+    "key": "BCRR",
+    "name": "Bluefield College"
+  },
+  {
+    "id": 1049,
+    "key": "PUG",
+    "name": "Park-Gilbert"
+  },
+  {
+    "id": 1050,
+    "key": "LCST",
+    "name": "Lewis Clark State"
+  },
+  {
+    "id": 1051,
+    "key": "CCGA",
+    "name": "College of Coastal Georgia"
+  },
+  {
+    "id": 1052,
+    "key": "LUM",
+    "name": "Lincoln (MO)"
+  },
+  {
+    "id": 1053,
+    "key": "LURE",
+    "name": "Life"
+  },
+  {
+    "id": 1054,
+    "key": "MIDWS",
+    "name": "Midwestern State"
+  },
+  {
+    "id": 1055,
+    "key": "SCA",
+    "name": "SC Aiken"
+  },
+  {
+    "id": 1056,
+    "key": "NCPM",
+    "name": "NC Pembroke"
+  },
+  {
+    "id": 1057,
+    "key": "TAL",
+    "name": "Talladega"
+  },
+  {
+    "id": 1058,
+    "key": "TUSC",
+    "name": "Tusculum"
+  },
+  {
+    "id": 1059,
+    "key": "KEENE",
+    "name": "Keene State"
+  },
+  {
+    "id": 1060,
+    "key": "FTLAUD",
+    "name": "Fort Lauderdale"
+  },
+  {
+    "id": 1061,
+    "key": "TRINE",
+    "name": "Trine"
+  },
+  {
+    "id": 1062,
+    "key": "MRCY",
+    "name": "Mercyhurst"
+  },
+  {
+    "id": 1063,
+    "key": "STAMB",
+    "name": "St. Ambrose"
+  },
+  {
+    "id": 1064,
+    "key": "ACU",
+    "name": "Arizona Christian"
+  },
+  {
+    "id": 1065,
+    "key": "WSHB",
+    "name": "Washburn"
+  },
+  {
+    "id": 1066,
+    "key": "NEWM",
+    "name": "Newman"
+  },
+  {
+    "id": 1067,
+    "key": "ACB",
+    "name": "Adrian College"
+  },
+  {
+    "id": 1068,
+    "key": "CALVIN",
+    "name": "Calvin"
+  },
+  {
+    "id": 1069,
+    "key": "USMMA",
+    "name": "US Merchant Marine Academy"
+  },
+  {
+    "id": 1070,
+    "key": "SALEM",
+    "name": "Salem"
+  },
+  {
+    "id": 1071,
+    "key": "GREENP",
+    "name": "Greenville"
+  },
+  {
+    "id": 1073,
+    "key": "FDF",
+    "name": "Fairleigh Dickinson Florham"
+  },
+  {
+    "id": 1074,
+    "key": "CATA",
+    "name": "Catawba"
+  },
+  {
+    "id": 1075,
+    "key": "SX",
+    "name": "Saint Xavier"
+  },
+  {
+    "id": 1076,
+    "key": "POINT",
+    "name": "Point"
+  },
+  {
+    "id": 1077,
+    "key": "LASU",
+    "name": "La Sierra"
+  },
+  {
+    "id": 1078,
+    "key": "SPC",
+    "name": "Spurgeon College"
+  },
+  {
+    "id": 1079,
+    "key": "CSM",
+    "name": "Colorado School of Mines"
+  },
+  {
+    "id": 1080,
+    "key": "FHSU",
+    "name": "Fort Hays State"
+  },
+  {
+    "id": 1081,
+    "key": "CSUP",
+    "name": "Colorado State-Pueblo"
+  },
+  {
+    "id": 1082,
+    "key": "YCC",
+    "name": "Yellowstone Christian College"
+  },
+  {
+    "id": 1083,
+    "key": "DSR",
+    "name": "Dalton State"
+  },
+  {
+    "id": 1084,
+    "key": "COR",
+    "name": "Cornerstone"
+  },
+  {
+    "id": 1085,
+    "key": "CCMC",
+    "name": "Columbia College"
+  },
+  {
+    "id": 1087,
+    "key": "WVT",
+    "name": "West Virginia Tech"
+  },
+  {
+    "id": 1088,
+    "key": "CSVILLE",
+    "name": "Campbellsville-Harrodsburg"
+  },
+  {
+    "id": 1090,
+    "key": "LEEU",
+    "name": "Lee"
+  },
+  {
+    "id": 1091,
+    "key": "STMS",
+    "name": "St Martins"
+  },
+  {
+    "id": 1092,
+    "key": "WHW",
+    "name": "Whitworth"
+  },
+  {
+    "id": 1093,
+    "key": "WING",
+    "name": "Wingate"
+  },
+  {
+    "id": 1094,
+    "key": "BERRY",
+    "name": "Berry College"
+  },
+  {
+    "id": 1095,
+    "key": "YHAR",
+    "name": "Young Harris College"
+  },
+  {
+    "id": 1096,
+    "key": "SWAD",
+    "name": "Southwestern Adventist"
+  },
+  {
+    "id": 1097,
+    "key": "GRGF",
+    "name": "George Fox"
+  },
+  {
+    "id": 1098,
+    "key": "SVK",
+    "name": "Southern Virginia"
+  },
+  {
+    "id": 1099,
+    "key": "SCR",
+    "name": "Shepherd College"
+  },
+  {
+    "id": 1100,
+    "key": "NESTST",
+    "name": "Northeastern State"
+  },
+  {
+    "id": 1101,
+    "key": "WTAM",
+    "name": "West Texas A&M"
+  },
+  {
+    "id": 1102,
+    "key": "NMSU",
+    "name": "Northwest Missouri State"
+  },
+  {
+    "id": 1103,
+    "key": "CONCMN",
+    "name": "Concordia-Moorhead"
+  },
+  {
+    "id": 1104,
+    "key": "MANHV",
+    "name": "Manhattanville"
+  },
+  {
+    "id": 1105,
+    "key": "HAST",
+    "name": "Hastings College"
+  },
+  {
+    "id": 1106,
+    "key": "HOPE",
+    "name": "Hope"
+  },
+  {
+    "id": 1108,
+    "key": "WHEEL",
+    "name": "Wheeling"
+  },
+  {
+    "id": 1109,
+    "key": "SAGV",
+    "name": "Saginaw Valley"
+  },
+  {
+    "id": 1110,
+    "key": "BUFST",
+    "name": "Buffalo State"
+  },
+  {
+    "id": 1111,
+    "key": "NYAC",
+    "name": "Nyack College"
+  },
+  {
+    "id": 1112,
+    "key": "STMN",
+    "name": "St. Thomas (MN)"
+  },
+  {
+    "id": 1113,
+    "key": "FRED",
+    "name": "Fredonia State"
+  },
+  {
+    "id": 1114,
+    "key": "CMS",
+    "name": "Claremont-Mudd-Scripps"
+  },
+  {
+    "id": 1115,
+    "key": "IAW",
+    "name": "Iowa Wesleyan"
+  },
+  {
+    "id": 1116,
+    "key": "VAS",
+    "name": "Vassar"
+  },
+  {
+    "id": 1117,
+    "key": "MAFARM",
+    "name": "Maine-Farmington"
+  },
+  {
+    "id": 1118,
+    "key": "BARC",
+    "name": "Barclay College"
+  },
+  {
+    "id": 1119,
+    "key": "CEMET",
+    "name": "Central Methodist"
+  },
+  {
+    "id": 1120,
+    "key": "BAB",
+    "name": "Babson"
+  },
+  {
+    "id": 1121,
+    "key": "DILD",
+    "name": "Dillard"
+  },
+  {
+    "id": 1122,
+    "key": "NENGD",
+    "name": "New England"
+  },
+  {
+    "id": 1123,
+    "key": "AINTL",
+    "name": "American International"
+  },
+  {
+    "id": 1124,
+    "key": "NEUM",
+    "name": "Neumann"
+  },
+  {
+    "id": 1125,
+    "key": "GUIL",
+    "name": "Guilford"
+  },
+  {
+    "id": 1126,
+    "key": "HANO",
+    "name": "Hanover"
+  },
+  {
+    "id": 1127,
+    "key": "DEPAUW",
+    "name": "DePauw"
+  },
+  {
+    "id": 1128,
+    "key": "WISSUP",
+    "name": "Wisconsin-Superior"
+  },
+  {
+    "id": 1129,
+    "key": "ROOS",
+    "name": "Roosevelt"
+  },
+  {
+    "id": 1130,
+    "key": "MORAV",
+    "name": "Moravian"
+  },
+  {
+    "id": 1131,
+    "key": "MINDU",
+    "name": "Minnesota Duluth"
+  },
+  {
+    "id": 1132,
+    "key": "MTOLI",
+    "name": "Mount Olive"
+  },
+  {
+    "id": 1133,
+    "key": "EMBRID",
+    "name": "Embry Riddle"
+  },
+  {
+    "id": 1134,
+    "key": "UTENNS",
+    "name": "UT Southern"
+  },
+  {
+    "id": 1135,
+    "key": "ERIE",
+    "name": "Lake Erie"
+  },
+  {
+    "id": 1136,
+    "key": "STJME",
+    "name": "St. Josephs (ME)"
+  },
+  {
+    "id": 1137,
+    "key": "CCC",
+    "name": "Carolina Christian"
+  },
+  {
+    "id": 1138,
+    "key": "KNOX",
+    "name": "Knox"
+  },
+  {
+    "id": 1139,
+    "key": "KEYST",
+    "name": "Keystone"
+  },
+  {
+    "id": 1140,
+    "key": "MARB",
+    "name": "Mary Baldwin"
+  },
+  {
+    "id": 1141,
+    "key": "WEBSTER",
+    "name": "Webster"
+  },
+  {
+    "id": 1142,
+    "key": "BETIN",
+    "name": "Bethel (IN)"
+  },
+  {
+    "id": 1143,
+    "key": "CLINT",
+    "name": "Clinton"
+  },
+  {
+    "id": 1144,
+    "key": "REGC",
+    "name": "Regis College"
+  },
+  {
+    "id": 1145,
+    "key": "SUNYNP",
+    "name": "SUNY New Paltz"
+  },
+  {
+    "id": 1146,
+    "key": "SALB",
+    "name": "Salisbury"
+  },
+  {
+    "id": 1147,
+    "key": "VULYN",
+    "name": "VU of Lynchburg"
+  },
+  {
+    "id": 1148,
+    "key": "GWYM",
+    "name": "Gwynedd Mercy"
+  },
+  {
+    "id": 1149,
+    "key": "ELIZ",
+    "name": "Elizabethtown"
+  },
+  {
+    "id": 1150,
+    "key": "ARKBA",
+    "name": "Arkansas Baptist"
+  },
+  {
+    "id": 1151,
+    "key": "UDC",
+    "name": "District of Columbia"
+  },
+  {
+    "id": 1152,
+    "key": "OHWES",
+    "name": "Ohio Wesleyan"
+  },
+  {
+    "id": 1153,
+    "key": "ASC",
+    "name": "Agnes Scott College"
+  },
+  {
+    "id": 1154,
+    "key": "IMM",
+    "name": "Immaculata"
+  },
+  {
+    "id": 1155,
+    "key": "TAMK",
+    "name": "Texas A&M-Kingsville"
+  },
+  {
+    "id": 1156,
+    "key": "GEOKY",
+    "name": "Georgetown (KY)"
+  },
+  {
+    "id": 1157,
+    "key": "PSALG",
+    "name": "Penn State-Allegheny"
+  },
+  {
+    "id": 1158,
+    "key": "OHVY",
+    "name": "Ohio Valley"
+  },
+  {
+    "id": 1159,
+    "key": "USAO",
+    "name": "University of Science and Arts of Oklahoma"
+  },
+  {
+    "id": 1160,
+    "key": "OT",
+    "name": "Oregon Tech"
+  },
+  {
+    "id": 1161,
+    "key": "KCPA",
+    "name": "King's College (PA)"
+  },
+  {
+    "id": 1162,
+    "key": "WELLS",
+    "name": "Wells College"
+  },
+  {
+    "id": 1163,
+    "key": "INWESL",
+    "name": "Indiana Wesleyan"
+  },
+  {
+    "id": 1164,
+    "key": "WRCT",
+    "name": "Worcester Tech"
+  },
+  {
+    "id": 1165,
+    "key": "PSBEH",
+    "name": "Penn State-Behrend"
+  },
+  {
+    "id": 1166,
+    "key": "FRANK",
+    "name": "Franklin"
+  },
+  {
+    "id": 1167,
+    "key": "GRCHR",
+    "name": "Grace Christian"
+  },
+  {
+    "id": 1168,
+    "key": "JNCRL",
+    "name": "John Carroll"
+  },
+  {
+    "id": 1169,
+    "key": "MIVIL",
+    "name": "Millersville"
+  },
+  {
+    "id": 1170,
+    "key": "LOAKS",
+    "name": "Lincoln (CA)"
+  },
+  {
+    "id": 1171,
+    "key": "KEUKA",
+    "name": "Keuka"
+  },
+  {
+    "id": 1173,
+    "key": "UC",
+    "name": "Union University"
+  },
+  {
+    "id": 1174,
+    "key": "STP",
+    "name": "Stephens College"
+  },
+  {
+    "id": 1175,
+    "key": "MIAH",
+    "name": "Miami-Hamilton"
+  },
+  {
+    "id": 1178,
+    "key": "AUST",
+    "name": "AUST"
+  },
+  {
+    "id": 1179,
+    "key": "LWC",
+    "name": "Lindsey Wilson College"
+  },
+  {
+    "id": 1180,
+    "key": "MWSU",
+    "name": "Missouri Western State"
+  },
+  {
+    "id": 1181,
+    "key": "STJNF",
+    "name": "St. John Fisher"
+  },
+  {
+    "id": 1182,
+    "key": "CENTR",
+    "name": "Centre College"
+  },
+  {
+    "id": 1183,
+    "key": "WART",
+    "name": "Wartburg"
+  },
+  {
+    "id": 1184,
+    "key": "BBCPA",
+    "name": "Baptist Bible College (PA)"
+  },
+  {
+    "id": 1185,
+    "key": "JOHNJ",
+    "name": "John Jay"
+  },
+  {
+    "id": 1186,
+    "key": "SMSD",
+    "name": "College St. Mary"
+  },
+  {
+    "id": 1187,
+    "key": "TEXCOL",
+    "name": "Texas College"
+  },
+  {
+    "id": 1188,
+    "key": "GRCLND",
+    "name": "Graceland"
+  },
+  {
+    "id": 1190,
+    "key": "JBROWN",
+    "name": "John Brown"
+  },
+  {
+    "id": 1191,
+    "key": "ST. ",
+    "name": "St. Thomas (CAN)"
+  },
+  {
+    "id": 1193,
+    "key": "BAPCC",
+    "name": "Baptist Christian College"
+  },
+  {
+    "id": 1194,
+    "key": "BAKER",
+    "name": "Baker"
+  },
+  {
+    "id": 1195,
+    "key": "KINGU",
+    "name": "King University"
+  },
+  {
+    "id": 1196,
+    "key": "MTSTB",
+    "name": "Montana State-Billings"
+  },
+  {
+    "id": 1197,
+    "key": "BSHNL",
+    "name": "Bushnell"
+  },
+  {
+    "id": 1199,
+    "key": "FAULK",
+    "name": "Faulkner"
+  },
+  {
+    "id": 1200,
+    "key": "JTOWN",
+    "name": "Jamestown"
+  },
+  {
+    "id": 1201,
+    "key": "MCLA",
+    "name": "Mass College of Liberal Arts"
+  },
+  {
+    "id": 1202,
+    "key": "UNTD",
+    "name": "North Texas-Dallas"
+  },
+  {
+    "id": 1203,
+    "key": "OHCHR",
+    "name": "Ohio Christian"
+  },
+  {
+    "id": 1204,
+    "key": "ASHL",
+    "name": "Ashland"
+  },
+  {
+    "id": 1205,
+    "key": "HIR",
+    "name": "Hope International"
+  },
+  {
+    "id": 1206,
+    "key": "WCHES",
+    "name": "West Chester"
+  },
+  {
+    "id": 1207,
+    "key": "UNNY",
+    "name": "Union"
+  },
+  {
+    "id": 1208,
+    "key": "LHU",
+    "name": "Lock Haven"
+  },
+  {
+    "id": 1209,
+    "key": "BAPMO",
+    "name": "Baptist Bible College (MO)"
+  },
+  {
+    "id": 1210,
+    "key": "CLAY",
+    "name": "Clayton State"
+  },
+  {
+    "id": 1211,
+    "key": "TAY",
+    "name": "Taylor University"
+  },
+  {
+    "id": 1212,
+    "key": "USI",
+    "name": "Southern Indiana"
+  },
+  {
+    "id": 1213,
+    "key": "STNH",
+    "name": "Stonehill"
+  },
+  {
+    "id": 1214,
+    "key": "LCHB",
+    "name": "Lynchburg"
+  },
+  {
+    "id": 1215,
+    "key": "VCSV",
+    "name": "Valley City State"
+  },
+  {
+    "id": 1216,
+    "key": "SARL",
+    "name": "Sarah Lawrence"
+  },
+  {
+    "id": 1217,
+    "key": "CHPM",
+    "name": "Chapman"
+  },
+  {
+    "id": 1218,
+    "key": "FULT",
+    "name": "Fulton-Montgomery"
+  },
+  {
+    "id": 1219,
+    "key": "MRCM",
+    "name": "Mercy"
+  },
+  {
+    "id": 1220,
+    "key": "CMAR",
+    "name": "California-Maritime"
+  },
+  {
+    "id": 1221,
+    "key": "SALM",
+    "name": "Salem College"
+  },
+  {
+    "id": 1222,
+    "key": "NRVJ",
+    "name": "Northern Vermont-Johnson"
+  },
+  {
+    "id": 1223,
+    "key": "BKRS",
+    "name": "Bakersfield College"
+  },
+  {
+    "id": 1224,
+    "key": "TUFT",
+    "name": "Tufts"
+  },
+  {
+    "id": 1225,
+    "key": "BLVU",
+    "name": "Bellevue College"
+  },
+  {
+    "id": 1226,
+    "key": "OSWS",
+    "name": "Oswego State"
+  },
+  {
+    "id": 1227,
+    "key": "WILK",
+    "name": "Wilkes"
+  },
+  {
+    "id": 1228,
+    "key": "LYNN",
+    "name": "Lynn"
+  },
+  {
+    "id": 1229,
+    "key": "OCHT",
+    "name": "Ouachita Baptist"
+  },
+  {
+    "id": 1230,
+    "key": "SCKY",
+    "name": "Simmons College Of Kentucky"
+  },
+  {
+    "id": 1231,
+    "key": "HNLG",
+    "name": "Hannibal-LaGrange"
+  },
+  {
+    "id": 1232,
+    "key": "NWIN",
+    "name": "Northwest Indian"
+  },
+  {
+    "id": 1233,
+    "key": "MAST",
+    "name": "Masters College"
+  },
+  {
+    "id": 1234,
+    "key": "ITHA",
+    "name": "Ithaca College"
+  },
+  {
+    "id": 1235,
+    "key": "COLS",
+    "name": "Colby-Sawyer College"
+  },
+  {
+    "id": 1236,
+    "key": "STAUG",
+    "name": "St. Augustine"
+  },
+  {
+    "id": 1237,
+    "key": "PRVD",
+    "name": "Providence (MT)"
+  },
+  {
+    "id": 1238,
+    "key": "LBVC",
+    "name": "Lebanon Valley College"
+  },
+  {
+    "id": 1239,
+    "key": "RIT",
+    "name": "RIT"
+  },
+  {
+    "id": 1240,
+    "key": "KNTS",
+    "name": "Kentucky State"
+  },
+  {
+    "id": 1241,
+    "key": "ARCD",
+    "name": "Arcadia"
+  },
+  {
+    "id": 1242,
+    "key": "TCNJ",
+    "name": "The College of New Jersey"
+  },
+  {
+    "id": 1243,
+    "key": "ALBERTUS",
+    "name": "Albertus Magnus"
+  },
+  {
+    "id": 1244,
+    "key": "DYOU",
+    "name": "D'Youville"
+  },
+  {
+    "id": 1245,
+    "key": "STJLI",
+    "name": "St. Joseph's (NY-Long Island)"
+  },
+  {
+    "id": 1246,
+    "key": "BETKS",
+    "name": "Bethel (KS)"
+  },
+  {
+    "id": 1247,
+    "key": "MITCH",
+    "name": "Mitchell College"
+  },
+  {
+    "id": 1248,
+    "key": "JNSN",
+    "name": "Johnson (TN)"
+  },
+  {
+    "id": 1249,
+    "key": "MDNNA",
+    "name": "Madonna"
+  },
+  {
+    "id": 1250,
+    "key": "OTTBN",
+    "name": "Otterbein"
+  },
+  {
+    "id": 1251,
+    "key": "RCHST",
+    "name": "Rochester"
+  },
+  {
+    "id": 1252,
+    "key": "PITTG",
+    "name": "Pittsburgh-Greensburg"
+  },
+  {
+    "id": 1253,
+    "key": "SUNYD",
+    "name": "SUNY-Delhi"
+  },
+  {
+    "id": 1254,
+    "key": "PENNK",
+    "name": "Penn State-New Kensington"
+  },
+  {
+    "id": 1255,
+    "key": "BALDW",
+    "name": "Baldwin Wallace"
+  },
+  {
+    "id": 1256,
+    "key": "MCDNL",
+    "name": "McDaniel"
+  },
+  {
+    "id": 1257,
+    "key": "WVWSL",
+    "name": "WV Wesleyan"
+  },
+  {
+    "id": 1258,
+    "key": "OKBP",
+    "name": "OK Baptist"
+  },
+  {
+    "id": 1259,
+    "key": "STMRW",
+    "name": "St. Mary of the Woods"
+  },
+  {
+    "id": 1260,
+    "key": "BLUFF",
+    "name": "Bluffton"
+  },
+  {
+    "id": 1261,
+    "key": "PTBGS",
+    "name": "Pittsburg State"
+  },
+  {
+    "id": 1262,
+    "key": "OCDN",
+    "name": "Occidental"
+  },
+  {
+    "id": 1263,
+    "key": "BLKBN",
+    "name": "Blackburn"
+  },
+  {
+    "id": 1264,
+    "key": "STVB",
+    "name": "St. Vincent"
+  },
+  {
+    "id": 1265,
+    "key": "MAINA",
+    "name": "Maine-Augusta"
+  },
+  {
+    "id": 1266,
+    "key": "FRMHM",
+    "name": "Framingham State"
+  },
+  {
+    "id": 1268,
+    "key": "CSTGD",
+    "name": "Coast Guard"
+  },
+  {
+    "id": 1269,
+    "key": "ANDRN",
+    "name": "Anderson (SC)"
+  },
+  {
+    "id": 1270,
+    "key": "OHIOD",
+    "name": "Ohio Dominican"
+  },
+  {
+    "id": 1271,
+    "key": "WSW",
+    "name": "Wayne State"
+  },
+  {
+    "id": 1272,
+    "key": "BRANDEIS",
+    "name": "Brandeis"
+  },
+  {
+    "id": 1273,
+    "key": "SONAZA",
+    "name": "Southern Nazarene"
+  },
+  {
+    "id": 1274,
+    "key": "CAZEN",
+    "name": "Cazenovia"
+  },
+  {
+    "id": 1275,
+    "key": "MSOE",
+    "name": "Milwaukee School of Engineering"
+  },
+  {
+    "id": 1276,
+    "key": "CRDST",
+    "name": "Cardinal Stritch"
+  },
+  {
+    "id": 1277,
+    "key": "LORAS",
+    "name": "Loras"
+  },
+  {
+    "id": 1278,
+    "key": "LNGST",
+    "name": "Langston"
+  },
+  {
+    "id": 1279,
+    "key": "HAMLT",
+    "name": "Hamilton"
+  },
+  {
+    "id": 1280,
+    "key": "AURO",
+    "name": "Aurora"
+  },
+  {
+    "id": 1281,
+    "key": "MISSW",
+    "name": "Mississippi University For Women"
+  },
+  {
+    "id": 1282,
+    "key": "NENGC",
+    "name": "New England College"
+  },
+  {
+    "id": 1283,
+    "key": "SUNYOW",
+    "name": "SUNY-Old Westbury"
+  },
+  {
+    "id": 1285,
+    "key": "CLM",
+    "name": "Calumet College"
+  },
+  {
+    "id": 1286,
+    "key": "DAKST",
+    "name": "Dakota State"
+  },
+  {
+    "id": 1287,
+    "key": "PSBEV",
+    "name": "Penn State-Beaver"
+  },
+  {
+    "id": 1288,
+    "key": "CEN",
+    "name": "Centenary College"
+  },
+  {
+    "id": 1289,
+    "key": "MIAMID",
+    "name": "Miami-Middletown"
+  },
+  {
+    "id": 1290,
+    "key": "MSMBK",
+    "name": "Mount Saint Mary"
+  },
+  {
+    "id": 1291,
+    "key": "HOUGH",
+    "name": "Houghton"
+  },
+  {
+    "id": 1292,
+    "key": "KANCH",
+    "name": "Kansas Christian"
+  },
+  {
+    "id": 1293,
+    "key": "WLIBST",
+    "name": "West Liberty State"
+  },
+  {
+    "id": 1294,
+    "key": "ECSU",
+    "name": "Elizabeth City State"
+  },
+  {
+    "id": 1295,
+    "key": "MANS",
+    "name": "Mansfield"
+  },
+  {
+    "id": 1296,
+    "key": "UOSD",
+    "name": "University of Sciences"
+  },
+  {
+    "id": 1297,
+    "key": "LOUR",
+    "name": "Lourdes"
+  },
+  {
+    "id": 1298,
+    "key": "BARR",
+    "name": "Barry"
+  },
+  {
+    "id": 1299,
+    "key": "VSB",
+    "name": "Valdosta State"
+  },
+  {
+    "id": 1300,
+    "key": "UOZC",
+    "name": "Ozark Christian"
+  },
+  {
+    "id": 1301,
+    "key": "JOHN",
+    "name": "John Melvin"
+  },
+  {
+    "id": 1302,
+    "key": "MVN",
+    "name": "Mount Vernon Nazarene"
+  },
+  {
+    "id": 1303,
+    "key": "SFU",
+    "name": "Simon Fraser"
+  },
+  {
+    "id": 1304,
+    "key": "PSALT",
+    "name": "Penn State-Altoona"
+  },
+  {
+    "id": 1305,
+    "key": "GRAC",
+    "name": "Grace College"
+  },
+  {
+    "id": 1306,
+    "key": "MUPR",
+    "name": "Mount Union"
+  },
+  {
+    "id": 1307,
+    "key": "LANE",
+    "name": "Lane"
+  },
+  {
+    "id": 1308,
+    "key": "VMV",
+    "name": "Villa Maria"
+  },
+  {
+    "id": 1309,
+    "key": "MARYW",
+    "name": "Marywood"
+  },
+  {
+    "id": 1310,
+    "key": "MEPRE",
+    "name": "Maine-Presque Isle"
+  },
+  {
+    "id": 1311,
+    "key": "FRIENDS",
+    "name": "Friends"
+  },
+  {
+    "id": 1312,
+    "key": "LSS",
+    "name": "Lake Superior State"
+  },
+  {
+    "id": 1313,
+    "key": "SMSP",
+    "name": "Saint Mary"
+  },
+  {
+    "id": 1314,
+    "key": "LEHM",
+    "name": "Lehman College"
+  },
+  {
+    "id": 1315,
+    "key": "TABR",
+    "name": "Tabor College"
+  },
+  {
+    "id": 1316,
+    "key": "CHEY",
+    "name": "Cheyney"
+  },
+  {
+    "id": 1317,
+    "key": "WRCST",
+    "name": "Worcester State"
+  },
+  {
+    "id": 1318,
+    "key": "FELI",
+    "name": "Felician"
+  },
+  {
+    "id": 1319,
+    "key": "BTHWV",
+    "name": "Bethany (WV)"
+  },
+  {
+    "id": 1320,
+    "key": "UICOL",
+    "name": "United International College"
+  },
+  {
+    "id": 1321,
+    "key": "MONIL",
+    "name": "Monmouth (IL)"
+  },
+  {
+    "id": 1322,
+    "key": "PSUBW",
+    "name": "Penn State-Brandywine"
+  },
+  {
+    "id": 1323,
+    "key": "ANDRW",
+    "name": "Andrews"
+  },
+  {
+    "id": 1324,
+    "key": "PSUSK",
+    "name": "Penn State-Schuylkill"
+  },
+  {
+    "id": 1325,
+    "key": "WTNBG",
+    "name": "Wittenberg"
+  },
+  {
+    "id": 1326,
+    "key": "DEVAL",
+    "name": "Delaware Valley"
+  },
+  {
+    "id": 1327,
+    "key": "LRCH",
+    "name": "La Roche"
+  },
+  {
+    "id": 1328,
+    "key": "PRM",
+    "name": "Puerto Rico-Mayaguez"
+  },
+  {
+    "id": 1329,
+    "key": "BARD",
+    "name": "Bard"
+  },
+  {
+    "id": 1330,
+    "key": "ARFS",
+    "name": "Arkansas Fort Smith"
+  },
+  {
+    "id": 1331,
+    "key": "MMER",
+    "name": "Mount Mercy"
+  },
+  {
+    "id": 1333,
+    "key": "OKWES",
+    "name": "Oklahoma Wesleyan"
+  },
+  {
+    "id": 1334,
+    "key": "LINF",
+    "name": "Linfield"
+  },
+  {
+    "id": 1335,
+    "key": "CLE",
+    "name": "Cleary"
+  },
+  {
+    "id": 1336,
+    "key": "CUKY",
+    "name": "Cumberland (KY)"
+  },
+  {
+    "id": 1337,
+    "key": "GREAT",
+    "name": "Great Lakes Christian"
+  },
+  {
+    "id": 1338,
+    "key": "PSABI",
+    "name": "Penn State-Abington"
+  },
+  {
+    "id": 1339,
+    "key": "CONCSTP",
+    "name": "Concordia-St.Paul"
+  },
+  {
+    "id": 1340,
+    "key": "WSLEE",
+    "name": "Washington and Lee"
+  },
+  {
+    "id": 1341,
+    "key": "CLRKE",
+    "name": "Clarke"
+  },
+  {
+    "id": 1342,
+    "key": "PLATT",
+    "name": "SUNY-Plattsburgh"
+  },
+  {
+    "id": 1343,
+    "key": "WIRIV",
+    "name": "Wisconsin-River Falls"
+  },
+  {
+    "id": 1344,
+    "key": "SNYM",
+    "name": "SUNY Morrisville"
+  },
+  {
+    "id": 1345,
+    "key": "STANT",
+    "name": "Stanton"
+  },
+  {
+    "id": 1347,
+    "key": "BERM",
+    "name": "Berea College"
+  },
+  {
+    "id": 1348,
+    "key": "ROBWES",
+    "name": "Roberts Wesleyan"
+  },
+  {
+    "id": 1349,
+    "key": "WFIELDST",
+    "name": "Westfield State"
+  },
+  {
+    "id": 1350,
+    "key": "NCOLLFL",
+    "name": "New College of Florida"
+  },
+  {
+    "id": 1351,
+    "key": "NAVTC",
+    "name": "Navajo Technical"
+  },
+  {
+    "id": 1352,
+    "key": "SPFLD",
+    "name": "Springfield"
+  },
+  {
+    "id": 1353,
+    "key": "SWOKST",
+    "name": "Southwestern Oklahoma State"
+  },
+  {
+    "id": 1354,
+    "key": "ADELP",
+    "name": "Adelphi"
+  },
+  {
+    "id": 1355,
+    "key": "NORTHST",
+    "name": "Northern State"
+  },
+  {
+    "id": 1356,
+    "key": "SUSQ",
+    "name": "Susquehanna"
+  },
+  {
+    "id": 1357,
+    "key": "STERL",
+    "name": "Sterling College"
+  },
+  {
+    "id": 1358,
+    "key": "CLATL",
+    "name": "Clark Atlanta"
+  },
+  {
+    "id": 1359,
+    "key": "GLDBEA",
+    "name": "Goldey-Beacom"
+  },
+  {
+    "id": 1361,
+    "key": "OPSU",
+    "name": "Oklahoma Panhandle State"
+  },
+  {
+    "id": 1362,
+    "key": "ESTRO",
+    "name": "East Stroudsburg"
+  },
+  {
+    "id": 1363,
+    "key": "BRTN",
+    "name": "Barton"
+  },
+  {
+    "id": 1366,
+    "key": "BIBL",
+    "name": "College of Biblical Studies"
+  },
+  {
+    "id": 1367,
+    "key": "YORKNE",
+    "name": "York (NE)"
+  },
+  {
+    "id": 1368,
+    "key": "MINOT",
+    "name": "Minot State"
+  },
+  {
+    "id": 1369,
+    "key": "LINMEM",
+    "name": "Lincoln Memorial"
+  },
+  {
+    "id": 1370,
+    "key": "BRIDMA",
+    "name": "Bridgewater (MA)"
+  },
+  {
+    "id": 1371,
+    "key": "HILCH",
+    "name": "Hillsdale"
+  },
+  {
+    "id": 1372,
+    "key": "DALCRU",
+    "name": "Dallas"
+  },
+  {
+    "id": 1373,
+    "key": "KUYP",
+    "name": "Kuyper"
+  },
+  {
+    "id": 1374,
+    "key": "MWASH",
+    "name": "Mary Washington"
+  },
+  {
+    "id": 1375,
+    "key": "SRGK",
+    "name": "Saint Rose"
+  },
+  {
+    "id": 1376,
+    "key": "EDGE",
+    "name": "Edgewood College"
+  },
+  {
+    "id": 1377,
+    "key": "KUZTWN",
+    "name": "Kutztown"
+  },
+  {
+    "id": 1378,
+    "key": "WESGA",
+    "name": "Wesleyan (GA) College"
+  },
+  {
+    "id": 1379,
+    "key": "BRYST",
+    "name": "Bryant & Stratton"
+  },
+  {
+    "id": 1380,
+    "key": "BLOOM",
+    "name": "Bloomfield"
+  },
+  {
+    "id": 1381,
+    "key": "DORDT",
+    "name": "Dordt"
+  },
+  {
+    "id": 1382,
+    "key": "UWSTPT",
+    "name": "Wisconsin-Stevens Pt"
+  },
+  {
+    "id": 1383,
+    "key": "VITE",
+    "name": "Viterbo"
+  },
+  {
+    "id": 1384,
+    "key": "FIVE",
+    "name": "Five Towns"
+  },
+  {
+    "id": 1385,
+    "key": "BIOLA",
+    "name": "Biola"
+  },
+  {
+    "id": 1386,
+    "key": "MARYM",
+    "name": "Mary"
+  },
+  {
+    "id": 1387,
+    "key": "WVST",
+    "name": "West Virginia State"
+  },
+  {
+    "id": 1388,
+    "key": "GVST",
+    "name": "Grand Valley State"
+  },
+  {
+    "id": 1389,
+    "key": "TMU",
+    "name": "Toronto Metropolitan"
+  },
+  {
+    "id": 1390,
+    "key": "PPARK",
+    "name": "Park-Parkville"
+  },
+  {
+    "id": 1391,
+    "key": "UWG",
+    "name": "West Georgia"
+  },
+  {
+    "id": 1392,
+    "key": "LAKE",
+    "name": "Lakeland"
+  },
+  {
+    "id": 1393,
+    "key": "MERAA",
+    "name": "Meredith"
+  },
+  {
+    "id": 1394,
+    "key": "DOMNY",
+    "name": "Dominican (NY)"
+  },
+  {
+    "id": 1395,
+    "key": "FRANKP",
+    "name": "Franklin Pierce"
+  },
+  {
+    "id": 1396,
+    "key": "CAP",
+    "name": "Capital"
+  },
+  {
+    "id": 1397,
+    "key": "JUST",
+    "name": "Justice College"
+  },
+  {
+    "id": 1398,
+    "key": "TAMSA",
+    "name": "Texas A&M-San Antonio"
+  },
+  {
+    "id": 1399,
+    "key": "HCS",
+    "name": "Holy Cross (IN)"
+  },
+  {
+    "id": 1400,
+    "key": "SOR",
+    "name": "Southern Oregon"
+  },
+  {
+    "id": 1401,
+    "key": "VTSTR",
+    "name": "Vermont State Randolph"
+  },
+  {
+    "id": 1402,
+    "key": "PITTB",
+    "name": "Pittsburgh Bradford"
+  },
+  {
+    "id": 1403,
+    "key": "SUNYB",
+    "name": "SUNY-Brockport"
+  },
+  {
+    "id": 1404,
+    "key": "NELSON",
+    "name": "Nelson"
+  },
+  {
+    "id": 1405,
+    "key": "MANORC",
+    "name": "Manor College"
+  },
+  {
+    "id": 1407,
+    "key": "ENDC",
+    "name": "Endicott College"
+  },
+  {
+    "id": 1408,
+    "key": "PSSHEN",
+    "name": "Penn State-Shenango"
+  },
+  {
+    "id": 1409,
+    "key": "PSFAY",
+    "name": "Penn State-Fayette"
+  },
+  {
+    "id": 1410,
+    "key": "PSSCR",
+    "name": "Penn State-Scranton"
+  },
+  {
+    "id": 1411,
+    "key": "NOBEL",
+    "name": "Nobel"
+  },
+  {
+    "id": 1412,
+    "key": "BOWD",
+    "name": "Bowdoin"
+  },
+  {
+    "id": 1413,
+    "key": "RPI",
+    "name": "Rensselaer Polytechnic"
+  },
+  {
+    "id": 1414,
+    "key": "PRATT",
+    "name": "Pratt Institute"
+  },
+  {
+    "id": 1415,
+    "key": "STMAMN",
+    "name": "St. Mary's (MN)"
+  },
+  {
+    "id": 1416,
+    "key": "MARWI",
+    "name": "Marian (WI)"
+  },
+  {
+    "id": 1417,
+    "key": "DICKPA",
+    "name": "Dickinson (PA)"
+  },
+  {
+    "id": 1418,
+    "key": "SPBMTD",
+    "name": "Spartanburg Methodist"
+  },
+  {
+    "id": 1419,
+    "key": "MSOS",
+    "name": "Missouri Southern State"
+  },
+  {
+    "id": 1420,
+    "key": "AUG",
+    "name": "Augusta"
+  },
+  {
+    "id": 1421,
+    "key": "STNOR",
+    "name": "St. Norbert"
+  },
+  {
+    "id": 1422,
+    "key": "CALG",
+    "name": "Calgary"
+  },
+  {
+    "id": 1423,
+    "key": "RANM",
+    "name": "Randolph-Macon"
+  },
+  {
+    "id": 1424,
+    "key": "MINC",
+    "name": "Minnesota-Crookston"
+  },
+  {
+    "id": 1425,
+    "key": "MITECH",
+    "name": "Michigan Tech"
+  },
+  {
+    "id": 1426,
+    "key": "IUCO",
+    "name": "IU Columbus"
+  },
+  {
+    "id": 1427,
+    "key": "WSTMMO",
+    "name": "Westminster (MO)"
+  },
+  {
+    "id": 1428,
+    "key": "INSE",
+    "name": "Indiana-Southeast"
+  },
+  {
+    "id": 1429,
+    "key": "CHATC",
+    "name": "Chatham"
+  },
+  {
+    "id": 1430,
+    "key": "CHRSNW",
+    "name": "Christopher Newport"
+  },
+  {
+    "id": 1431,
+    "key": "NIACOL",
+    "name": "Niagara College"
+  },
+  {
+    "id": 1432,
+    "key": "UWLACR",
+    "name": "Wisconsin-La Crosse"
+  },
+  {
+    "id": 1433,
+    "key": "HAVER",
+    "name": "Haverford"
+  },
+  {
+    "id": 1434,
+    "key": "CARRWI",
+    "name": "Carroll (WI)"
+  },
+  {
+    "id": 1435,
+    "key": "STILL",
+    "name": "Stillman"
+  },
+  {
+    "id": 1436,
+    "key": "JOHNS",
+    "name": "Johns Hopkins"
+  },
+  {
+    "id": 1437,
+    "key": "FORTLEW",
+    "name": "Fort Lewis"
+  },
+  {
+    "id": 1438,
+    "key": "SUNYGE",
+    "name": "SUNY-Geneseo"
+  },
+  {
+    "id": 1439,
+    "key": "CHRB",
+    "name": "Christian Brothers"
+  },
+  {
+    "id": 1440,
+    "key": "RIPO",
+    "name": "Ripon"
+  },
+  {
+    "id": 1441,
+    "key": "MACAL",
+    "name": "Macalester"
+  },
+  {
+    "id": 1442,
+    "key": "BLHIL",
+    "name": "Black Hills State"
+  },
+  {
+    "id": 1443,
+    "key": "YORKNY",
+    "name": "York College (NY)"
+  },
+  {
+    "id": 1444,
+    "key": "SEAPAC",
+    "name": "Seattle Pacific"
+  },
+  {
+    "id": 1445,
+    "key": "BETMN",
+    "name": "Bethel (MN)"
+  },
+  {
+    "id": 1446,
+    "key": "EMMA",
+    "name": "Emmanuel (MA)"
+  },
+  {
+    "id": 1447,
+    "key": "PRB",
+    "name": "Puerto Rico-Bayamon"
+  },
+  {
+    "id": 1448,
+    "key": "PRRP",
+    "name": "Puerto Rico-Rio Piedras"
+  },
+  {
+    "id": 1449,
+    "key": "NELAZ",
+    "name": "Nelson (AZ)"
+  },
+  {
+    "id": 1450,
+    "key": "POSTU",
+    "name": "Post University"
+  },
+  {
+    "id": 1451,
+    "key": "STMICH",
+    "name": "St. Michael's"
+  },
+  {
+    "id": 1452,
+    "key": "BREN",
+    "name": "Brenau"
+  },
+  {
+    "id": 1453,
+    "key": "NHVN",
+    "name": "New Haven"
+  },
+  {
+    "id": 1454,
+    "key": "ROW",
+    "name": "Rowan"
+  },
+  {
+    "id": 1455,
+    "key": "AC",
+    "name": "Allegheny"
+  },
+  {
+    "id": 1456,
+    "key": "PRIN",
+    "name": "Principia"
+  },
+  {
+    "id": 1457,
+    "key": "SUNYCOB",
+    "name": "SUNY-Cobleskill"
+  },
+  {
+    "id": 1458,
+    "key": "SAU",
+    "name": "Southern Arkansas"
+  },
+  {
+    "id": 1459,
+    "key": "WHITM",
+    "name": "Whitman"
+  },
+  {
+    "id": 1460,
+    "key": "WHEAT",
+    "name": "Wheaton (IL)"
+  },
+  {
+    "id": 1461,
+    "key": "CSUMB",
+    "name": "Cal State Monterey Bay"
+  },
+  {
+    "id": 1462,
+    "key": "LAWR",
+    "name": "Lawrence"
+  },
+  {
+    "id": 1463,
+    "key": "CALPA",
+    "name": "California (PA)"
+  },
+  {
+    "id": 1464,
+    "key": "SCHO",
+    "name": "St. Scholastica"
+  },
+  {
+    "id": 1465,
+    "key": "BARB",
+    "name": "Barber-Scotia"
+  },
+  {
+    "id": 1466,
+    "key": "CAM",
+    "name": "Cameron"
+  },
+  {
+    "id": 1467,
+    "key": "WAYN",
+    "name": "Waynesburg"
+  },
+  {
+    "id": 1468,
+    "key": "BAPFL",
+    "name": "Baptist University of Florida"
+  },
+  {
+    "id": 1469,
+    "key": "MAC",
+    "name": "McPherson College"
+  },
+  {
+    "id": 1470,
+    "key": "BCU",
+    "name": "Briar Cliff"
+  },
+  {
+    "id": 1471,
+    "key": "PSC",
+    "name": "Paul Smith's"
+  },
+  {
+    "id": 1472,
+    "key": "MCC",
+    "name": "Manhattan Christian"
+  },
+  {
+    "id": 1473,
+    "key": "IUE",
+    "name": "Indiana-East"
+  },
+  {
+    "id": 1474,
+    "key": "SKC",
+    "name": "Salish Kootenai"
+  },
+  {
+    "id": 1475,
+    "key": "PSHAZL",
+    "name": "Penn State-Hazleton"
+  },
+  {
+    "id": 1476,
+    "key": "Alfr",
+    "name": "Alfred State"
+  },
+  {
+    "id": 1477,
+    "key": "SCRO",
+    "name": "Scranton"
+  },
+  {
+    "id": 1478,
+    "key": "OTKS",
+    "name": "Ottawa (KS)"
+  },
+  {
+    "id": 1479,
+    "key": "HESS",
+    "name": "Hesston"
+  },
+  {
+    "id": 1480,
+    "key": "WLSH",
+    "name": "Walsh"
+  },
+  {
+    "id": 1481,
+    "key": "SCCC",
+    "name": "South Carolina Central Christian"
+  },
+  {
+    "id": 1482,
+    "key": "MYST",
+    "name": "Bismarck State"
+  },
+  {
+    "id": 1483,
+    "key": "BERK",
+    "name": "Berkeley"
+  },
+  {
+    "id": 1484,
+    "key": "CHICO",
+    "name": "Chico State"
+  },
+  {
+    "id": 1485,
+    "key": "STANS",
+    "name": "St. Anselm"
+  },
+  {
+    "id": 1486,
+    "key": "STVNSN",
+    "name": "Stevenson"
+  },
+  {
+    "id": 1487,
+    "key": "CAPOLL",
+    "name": "Cal Poly-Humboldt"
+  },
+  {
+    "id": 1488,
+    "key": "URSI",
+    "name": "Ursinus"
+  }
+]
