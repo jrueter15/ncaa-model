@@ -1,212 +1,121 @@
 [
   {
-    "Date": "2026-02-10T00:00:00",
-    "Spread": null,
+    "Date": "2026-02-13T00:00:00",
+    "HomeSpread": null,
+    "AwaySpread": null,
     "Total": null,
     "Sportsbook": null
   },
   {
-    "Date": "2026-02-10T00:00:00",
-    "Spread": null,
-    "Total": null,
-    "Sportsbook": null
-  },
-  {
-    "Date": "2026-02-10T00:00:00",
-    "Spread": null,
-    "Total": null,
-    "Sportsbook": null
-  },
-  {
-    "Date": "2026-02-10T00:00:00",
-    "Spread": null,
-    "Total": null,
-    "Sportsbook": null
-  },
-  {
-    "Date": "2026-02-10T00:00:00",
-    "Spread": null,
-    "Total": null,
-    "Sportsbook": null
-  },
-  {
-    "Date": "2026-02-10T00:00:00",
-    "Spread": null,
-    "Total": null,
-    "Sportsbook": null
-  },
-  {
-    "Date": "2026-02-10T00:00:00",
-    "Spread": null,
-    "Total": null,
-    "Sportsbook": null
-  },
-  {
-    "Date": "2026-02-10T00:00:00",
-    "Spread": null,
-    "Total": null,
-    "Sportsbook": null
-  },
-  {
-    "Date": "2026-02-10T00:00:00",
-    "Spread": null,
-    "Total": null,
-    "Sportsbook": null
-  },
-  {
-    "Date": "2026-02-10T00:00:00",
-    "Spread": null,
-    "Total": null,
-    "Sportsbook": null
-  },
-  {
-    "Date": "2026-02-10T00:00:00",
-    "Spread": null,
-    "Total": null,
-    "Sportsbook": null
-  },
-  {
-    "Date": "2026-02-10T00:00:00",
-    "Spread": null,
-    "Total": null,
-    "Sportsbook": null
-  },
-  {
-    "Date": "2026-02-10T00:00:00",
-    "Spread": null,
-    "Total": null,
-    "Sportsbook": null
-  },
-  {
-    "Date": "2026-02-10T00:00:00",
-    "Spread": null,
-    "Total": 265.6,
+    "Date": "2026-02-13T00:00:00",
+    "HomeSpread": 1,
+    "AwaySpread": -1.2,
+    "Total": 112.6,
     "Sportsbook": "Scrambled"
   },
   {
-    "Date": "2026-02-10T00:00:00",
-    "Spread": null,
-    "Total": 270.7,
+    "Date": "2026-02-13T00:00:00",
+    "HomeSpread": -2.1,
+    "AwaySpread": 1.7,
+    "Total": 122.5,
     "Sportsbook": "Scrambled"
   },
   {
-    "Date": "2026-02-10T00:00:00",
-    "Spread": null,
-    "Total": 258.9,
+    "Date": "2026-02-13T00:00:00",
+    "HomeSpread": -7,
+    "AwaySpread": 5.8,
+    "Total": 108.5,
     "Sportsbook": "Scrambled"
   },
   {
-    "Date": "2026-02-10T00:00:00",
-    "Spread": null,
-    "Total": 260.6,
+    "Date": "2026-02-13T00:00:00",
+    "HomeSpread": -2.9,
+    "AwaySpread": 2.4,
+    "Total": 119.2,
     "Sportsbook": "Scrambled"
   },
   {
-    "Date": "2026-02-10T00:00:00",
-    "Spread": null,
-    "Total": 262.3,
+    "Date": "2026-02-13T00:00:00",
+    "HomeSpread": 3.7,
+    "AwaySpread": -4.5,
+    "Total": 114.3,
     "Sportsbook": "Scrambled"
   },
   {
-    "Date": "2026-02-10T00:00:00",
-    "Spread": null,
-    "Total": 245.5,
+    "Date": "2026-02-13T00:00:00",
+    "HomeSpread": 3.1,
+    "AwaySpread": -3.7,
+    "Total": 114.3,
     "Sportsbook": "Scrambled"
   },
   {
-    "Date": "2026-02-10T00:00:00",
-    "Spread": null,
-    "Total": 265.6,
+    "Date": "2026-02-13T00:00:00",
+    "HomeSpread": 6.5,
+    "AwaySpread": -7.8,
+    "Total": 125,
     "Sportsbook": "Scrambled"
   },
   {
-    "Date": "2026-02-10T00:00:00",
-    "Spread": null,
-    "Total": 253.9,
+    "Date": "2026-02-13T00:00:00",
+    "HomeSpread": 1,
+    "AwaySpread": -1.2,
+    "Total": 121.7,
     "Sportsbook": "Scrambled"
   },
   {
-    "Date": "2026-02-10T00:00:00",
-    "Spread": null,
-    "Total": 233.8,
+    "Date": "2026-02-13T00:00:00",
+    "HomeSpread": 2.4,
+    "AwaySpread": -2.9,
+    "Total": 128.3,
     "Sportsbook": "Scrambled"
   },
   {
-    "Date": "2026-02-10T00:00:00",
-    "Spread": null,
-    "Total": 227.1,
+    "Date": "2026-02-13T00:00:00",
+    "HomeSpread": -2.9,
+    "AwaySpread": 2.4,
+    "Total": 123.3,
     "Sportsbook": "Scrambled"
   },
   {
-    "Date": "2026-02-10T00:00:00",
-    "Spread": null,
-    "Total": 242.2,
+    "Date": "2026-02-13T00:00:00",
+    "HomeSpread": 1,
+    "AwaySpread": -1.2,
+    "Total": 121.7,
     "Sportsbook": "Scrambled"
   },
   {
-    "Date": "2026-02-10T00:00:00",
-    "Spread": null,
-    "Total": 257.3,
+    "Date": "2026-02-13T00:00:00",
+    "HomeSpread": 14.4,
+    "AwaySpread": -14.4,
+    "Total": 128.3,
     "Sportsbook": "Scrambled"
   },
   {
-    "Date": "2026-02-10T00:00:00",
-    "Spread": null,
-    "Total": 223.7,
+    "Date": "2026-02-13T00:00:00",
+    "HomeSpread": -7,
+    "AwaySpread": 5.8,
+    "Total": 135.7,
     "Sportsbook": "Scrambled"
   },
   {
-    "Date": "2026-02-10T00:00:00",
-    "Spread": null,
-    "Total": 265.6,
+    "Date": "2026-02-13T00:00:00",
+    "HomeSpread": -10.3,
+    "AwaySpread": 10.3,
+    "Total": 133.2,
     "Sportsbook": "Scrambled"
   },
   {
-    "Date": "2026-02-10T00:00:00",
-    "Spread": null,
-    "Total": 228.8,
+    "Date": "2026-02-13T00:00:00",
+    "HomeSpread": -9.5,
+    "AwaySpread": 7.8,
+    "Total": 126.6,
     "Sportsbook": "Scrambled"
   },
   {
-    "Date": "2026-02-10T00:00:00",
-    "Spread": null,
-    "Total": 230.4,
-    "Sportsbook": "Scrambled"
-  },
-  {
-    "Date": "2026-02-10T00:00:00",
-    "Spread": null,
-    "Total": 238.8,
-    "Sportsbook": "Scrambled"
-  },
-  {
-    "Date": "2026-02-10T00:00:00",
-    "Spread": null,
-    "Total": 247.2,
-    "Sportsbook": "Scrambled"
-  },
-  {
-    "Date": "2026-02-10T00:00:00",
-    "Spread": null,
-    "Total": 274,
-    "Sportsbook": "Scrambled"
-  },
-  {
-    "Date": "2026-02-10T00:00:00",
-    "Spread": null,
-    "Total": 255.6,
-    "Sportsbook": "Scrambled"
-  },
-  {
-    "Date": "2026-02-10T00:00:00",
-    "Spread": null,
-    "Total": 250.6,
-    "Sportsbook": "Scrambled"
-  },
-  {
-    "Date": "2026-02-10T00:00:00",
-    "Spread": null,
-    "Total": 262.3,
+    "Date": "2026-02-13T00:00:00",
+    "HomeSpread": 1.7,
+    "AwaySpread": -2.1,
+    "Total": 114.3,
     "Sportsbook": "Scrambled"
   }
 ]

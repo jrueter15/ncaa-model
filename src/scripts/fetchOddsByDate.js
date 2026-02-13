@@ -2,7 +2,18 @@ import fs from 'fs';
 import fetch from 'node-fetch';
 import dotenv from 'dotenv';
 
+const teams = JSON.parse(
+  fs.readFileSync('data/teamsMinimal.json', 'utf8')
+);
+
+// Create a quick lookup map
+const teamMap = Object.fromEntries(
+  teams.map(team => [team.key, team])
+);
+
 dotenv.config();
+
+// node fetchOddsByDate.js "2025-JAN-15" - this part is where the date can be customized
 
 /* ============================
    DATE LOGIC GOES HERE
@@ -49,15 +60,21 @@ const fetchOdds = async () => {
     const minimalOdds = data.map(game => {
       const mainBook = game.PregameOdds?.[0]; // first sportsbook
 
-      return {
-        GameID: game.GameID,
-        Date: game.Day,
-        HomeTeam: game.HomeTeam,
-        AwayTeam: game.AwayTeam,
-        Spread: mainBook?.PointSpread ?? null,
-        Total: mainBook?.OverUnder ?? null,
-        Sportsbook: mainBook?.Sportsbook ?? null
-      };
+        return {
+            GameID: game.GameID,
+            Date: game.Day,
+
+            HomeTeamKey: game.HomeTeam,
+            AwayTeamKey: game.AwayTeam,
+
+            HomeTeam: teamMap[game.HomeTeam]?.name ?? game.HomeTeam,
+            AwayTeam: teamMap[game.AwayTeam]?.name ?? game.AwayTeam,
+
+            HomeSpread: mainBook?.HomePointSpread ?? null,
+            AwaySpread: mainBook?.AwayPointSpread ?? null,
+            Total: mainBook?.OverUnder ?? null,
+            Sportsbook: mainBook?.Sportsbook ?? null                                                                                  
+        };
     });
 
     if (!fs.existsSync('data')) {
